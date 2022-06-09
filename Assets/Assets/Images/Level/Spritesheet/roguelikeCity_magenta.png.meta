@@ -1,0 +1,7298 @@
+fileFormatVersion: 2
+guid: a082202b208b0ff42b8d69d740f3e79c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: roguelikeCity_magenta_0
+  - first:
+      213: 21300002
+    second: roguelikeCity_magenta_1
+  - first:
+      213: 21300004
+    second: roguelikeCity_magenta_2
+  - first:
+      213: 21300006
+    second: roguelikeCity_magenta_3
+  - first:
+      213: 21300008
+    second: roguelikeCity_magenta_4
+  - first:
+      213: 21300010
+    second: roguelikeCity_magenta_5
+  - first:
+      213: 21300012
+    second: roguelikeCity_magenta_6
+  - first:
+      213: 21300014
+    second: roguelikeCity_magenta_7
+  - first:
+      213: 21300016
+    second: roguelikeCity_magenta_8
+  - first:
+      213: 21300018
+    second: roguelikeCity_magenta_9
+  - first:
+      213: 21300020
+    second: roguelikeCity_magenta_10
+  - first:
+      213: 21300022
+    second: roguelikeCity_magenta_11
+  - first:
+      213: 21300024
+    second: roguelikeCity_magenta_12
+  - first:
+      213: 21300026
+    second: roguelikeCity_magenta_13
+  - first:
+      213: 21300028
+    second: roguelikeCity_magenta_14
+  - first:
+      213: 21300030
+    second: roguelikeCity_magenta_15
+  - first:
+      213: 21300032
+    second: roguelikeCity_magenta_16
+  - first:
+      213: 21300034
+    second: roguelikeCity_magenta_17
+  - first:
+      213: 21300036
+    second: roguelikeCity_magenta_18
+  - first:
+      213: 21300038
+    second: roguelikeCity_magenta_19
+  - first:
+      213: 21300040
+    second: roguelikeCity_magenta_20
+  - first:
+      213: 21300042
+    second: roguelikeCity_magenta_21
+  - first:
+      213: 21300044
+    second: roguelikeCity_magenta_22
+  - first:
+      213: 21300046
+    second: roguelikeCity_magenta_23
+  - first:
+      213: 21300048
+    second: roguelikeCity_magenta_24
+  - first:
+      213: 21300050
+    second: roguelikeCity_magenta_25
+  - first:
+      213: 21300052
+    second: roguelikeCity_magenta_26
+  - first:
+      213: 21300054
+    second: roguelikeCity_magenta_27
+  - first:
+      213: 21300056
+    second: roguelikeCity_magenta_28
+  - first:
+      213: 21300058
+    second: roguelikeCity_magenta_29
+  - first:
+      213: 21300060
+    second: roguelikeCity_magenta_30
+  - first:
+      213: 21300062
+    second: roguelikeCity_magenta_31
+  - first:
+      213: 21300064
+    second: roguelikeCity_magenta_32
+  - first:
+      213: 21300066
+    second: roguelikeCity_magenta_33
+  - first:
+      213: 21300068
+    second: roguelikeCity_magenta_34
+  - first:
+      213: 21300070
+    second: roguelikeCity_magenta_35
+  - first:
+      213: 21300072
+    second: roguelikeCity_magenta_36
+  - first:
+      213: 21300074
+    second: roguelikeCity_magenta_37
+  - first:
+      213: 21300076
+    second: roguelikeCity_magenta_38
+  - first:
+      213: 21300078
+    second: roguelikeCity_magenta_39
+  - first:
+      213: 21300080
+    second: roguelikeCity_magenta_40
+  - first:
+      213: 21300082
+    second: roguelikeCity_magenta_41
+  - first:
+      213: 21300084
+    second: roguelikeCity_magenta_42
+  - first:
+      213: 21300086
+    second: roguelikeCity_magenta_43
+  - first:
+      213: 21300088
+    second: roguelikeCity_magenta_44
+  - first:
+      213: 21300090
+    second: roguelikeCity_magenta_45
+  - first:
+      213: 21300092
+    second: roguelikeCity_magenta_46
+  - first:
+      213: 21300094
+    second: roguelikeCity_magenta_47
+  - first:
+      213: 21300096
+    second: roguelikeCity_magenta_48
+  - first:
+      213: 21300098
+    second: roguelikeCity_magenta_49
+  - first:
+      213: 21300100
+    second: roguelikeCity_magenta_50
+  - first:
+      213: 21300102
+    second: roguelikeCity_magenta_51
+  - first:
+      213: 21300104
+    second: roguelikeCity_magenta_52
+  - first:
+      213: 21300106
+    second: roguelikeCity_magenta_53
+  - first:
+      213: 21300108
+    second: roguelikeCity_magenta_54
+  - first:
+      213: 21300110
+    second: roguelikeCity_magenta_55
+  - first:
+      213: 21300112
+    second: roguelikeCity_magenta_56
+  - first:
+      213: 21300114
+    second: roguelikeCity_magenta_57
+  - first:
+      213: 21300116
+    second: roguelikeCity_magenta_58
+  - first:
+      213: 21300118
+    second: roguelikeCity_magenta_59
+  - first:
+      213: 21300120
+    second: roguelikeCity_magenta_60
+  - first:
+      213: 21300122
+    second: roguelikeCity_magenta_61
+  - first:
+      213: 21300124
+    second: roguelikeCity_magenta_62
+  - first:
+      213: 21300126
+    second: roguelikeCity_magenta_63
+  - first:
+      213: 21300128
+    second: roguelikeCity_magenta_64
+  - first:
+      213: 21300130
+    second: roguelikeCity_magenta_65
+  - first:
+      213: 21300132
+    second: roguelikeCity_magenta_66
+  - first:
+      213: 21300134
+    second: roguelikeCity_magenta_67
+  - first:
+      213: 21300136
+    second: roguelikeCity_magenta_68
+  - first:
+      213: 21300138
+    second: roguelikeCity_magenta_69
+  - first:
+      213: 21300140
+    second: roguelikeCity_magenta_70
+  - first:
+      213: 21300142
+    second: roguelikeCity_magenta_71
+  - first:
+      213: 21300144
+    second: roguelikeCity_magenta_72
+  - first:
+      213: 21300146
+    second: roguelikeCity_magenta_73
+  - first:
+      213: 21300148
+    second: roguelikeCity_magenta_74
+  - first:
+      213: 21300150
+    second: roguelikeCity_magenta_75
+  - first:
+      213: 21300152
+    second: roguelikeCity_magenta_76
+  - first:
+      213: 21300154
+    second: roguelikeCity_magenta_77
+  - first:
+      213: 21300156
+    second: roguelikeCity_magenta_78
+  - first:
+      213: 21300158
+    second: roguelikeCity_magenta_79
+  - first:
+      213: 21300160
+    second: roguelikeCity_magenta_80
+  - first:
+      213: 21300162
+    second: roguelikeCity_magenta_81
+  - first:
+      213: 21300164
+    second: roguelikeCity_magenta_82
+  - first:
+      213: 21300166
+    second: roguelikeCity_magenta_83
+  - first:
+      213: 21300168
+    second: roguelikeCity_magenta_84
+  - first:
+      213: 21300170
+    second: roguelikeCity_magenta_85
+  - first:
+      213: 21300172
+    second: roguelikeCity_magenta_86
+  - first:
+      213: 21300174
+    second: roguelikeCity_magenta_87
+  - first:
+      213: 21300176
+    second: roguelikeCity_magenta_88
+  - first:
+      213: 21300178
+    second: roguelikeCity_magenta_89
+  - first:
+      213: 21300180
+    second: roguelikeCity_magenta_90
+  - first:
+      213: 21300182
+    second: roguelikeCity_magenta_91
+  - first:
+      213: 21300184
+    second: roguelikeCity_magenta_92
+  - first:
+      213: 21300186
+    second: roguelikeCity_magenta_93
+  - first:
+      213: 21300188
+    second: roguelikeCity_magenta_94
+  - first:
+      213: 21300190
+    second: roguelikeCity_magenta_95
+  - first:
+      213: 21300192
+    second: roguelikeCity_magenta_96
+  - first:
+      213: 21300194
+    second: roguelikeCity_magenta_97
+  - first:
+      213: 21300196
+    second: roguelikeCity_magenta_98
+  - first:
+      213: 21300198
+    second: roguelikeCity_magenta_99
+  - first:
+      213: 21300200
+    second: roguelikeCity_magenta_100
+  - first:
+      213: 21300202
+    second: roguelikeCity_magenta_101
+  - first:
+      213: 21300204
+    second: roguelikeCity_magenta_102
+  - first:
+      213: 21300206
+    second: roguelikeCity_magenta_103
+  - first:
+      213: 21300208
+    second: roguelikeCity_magenta_104
+  - first:
+      213: 21300210
+    second: roguelikeCity_magenta_105
+  - first:
+      213: 21300212
+    second: roguelikeCity_magenta_106
+  - first:
+      213: 21300214
+    second: roguelikeCity_magenta_107
+  - first:
+      213: 21300216
+    second: roguelikeCity_magenta_108
+  - first:
+      213: 21300218
+    second: roguelikeCity_magenta_109
+  - first:
+      213: 21300220
+    second: roguelikeCity_magenta_110
+  - first:
+      213: 21300222
+    second: roguelikeCity_magenta_111
+  - first:
+      213: 21300224
+    second: roguelikeCity_magenta_112
+  - first:
+      213: 21300226
+    second: roguelikeCity_magenta_113
+  - first:
+      213: 21300228
+    second: roguelikeCity_magenta_114
+  - first:
+      213: 21300230
+    second: roguelikeCity_magenta_115
+  - first:
+      213: 21300232
+    second: roguelikeCity_magenta_116
+  - first:
+      213: 21300234
+    second: roguelikeCity_magenta_117
+  - first:
+      213: 21300236
+    second: roguelikeCity_magenta_118
+  - first:
+      213: 21300238
+    second: roguelikeCity_magenta_119
+  - first:
+      213: 21300240
+    second: roguelikeCity_magenta_120
+  - first:
+      213: 21300242
+    second: roguelikeCity_magenta_121
+  - first:
+      213: 21300244
+    second: roguelikeCity_magenta_122
+  - first:
+      213: 21300246
+    second: roguelikeCity_magenta_123
+  - first:
+      213: 21300248
+    second: roguelikeCity_magenta_124
+  - first:
+      213: 21300250
+    second: roguelikeCity_magenta_125
+  - first:
+      213: 21300252
+    second: roguelikeCity_magenta_126
+  - first:
+      213: 21300254
+    second: roguelikeCity_magenta_127
+  - first:
+      213: 21300256
+    second: roguelikeCity_magenta_128
+  - first:
+      213: 21300258
+    second: roguelikeCity_magenta_129
+  - first:
+      213: 21300260
+    second: roguelikeCity_magenta_130
+  - first:
+      213: 21300262
+    second: roguelikeCity_magenta_131
+  - first:
+      213: 21300264
+    second: roguelikeCity_magenta_132
+  - first:
+      213: 21300266
+    second: roguelikeCity_magenta_133
+  - first:
+      213: 21300268
+    second: roguelikeCity_magenta_134
+  - first:
+      213: 21300270
+    second: roguelikeCity_magenta_135
+  - first:
+      213: 21300272
+    second: roguelikeCity_magenta_136
+  - first:
+      213: 21300274
+    second: roguelikeCity_magenta_137
+  - first:
+      213: 21300276
+    second: roguelikeCity_magenta_138
+  - first:
+      213: 21300278
+    second: roguelikeCity_magenta_139
+  - first:
+      213: 21300280
+    second: roguelikeCity_magenta_140
+  - first:
+      213: 21300282
+    second: roguelikeCity_magenta_141
+  - first:
+      213: 21300284
+    second: roguelikeCity_magenta_142
+  - first:
+      213: 21300286
+    second: roguelikeCity_magenta_143
+  - first:
+      213: 21300288
+    second: roguelikeCity_magenta_144
+  - first:
+      213: 21300290
+    second: roguelikeCity_magenta_145
+  - first:
+      213: 21300292
+    second: roguelikeCity_magenta_146
+  - first:
+      213: 21300294
+    second: roguelikeCity_magenta_147
+  - first:
+      213: 21300296
+    second: roguelikeCity_magenta_148
+  - first:
+      213: 21300298
+    second: roguelikeCity_magenta_149
+  - first:
+      213: 21300300
+    second: roguelikeCity_magenta_150
+  - first:
+      213: 21300302
+    second: roguelikeCity_magenta_151
+  - first:
+      213: 21300304
+    second: roguelikeCity_magenta_152
+  - first:
+      213: 21300306
+    second: roguelikeCity_magenta_153
+  - first:
+      213: 21300308
+    second: roguelikeCity_magenta_154
+  - first:
+      213: 21300310
+    second: roguelikeCity_magenta_155
+  - first:
+      213: 21300312
+    second: roguelikeCity_magenta_156
+  - first:
+      213: 21300314
+    second: roguelikeCity_magenta_157
+  - first:
+      213: 21300316
+    second: roguelikeCity_magenta_158
+  - first:
+      213: 21300318
+    second: roguelikeCity_magenta_159
+  - first:
+      213: 21300320
+    second: roguelikeCity_magenta_160
+  - first:
+      213: 21300322
+    second: roguelikeCity_magenta_161
+  - first:
+      213: 21300324
+    second: roguelikeCity_magenta_162
+  - first:
+      213: 21300326
+    second: roguelikeCity_magenta_163
+  - first:
+      213: 21300328
+    second: roguelikeCity_magenta_164
+  - first:
+      213: 21300330
+    second: roguelikeCity_magenta_165
+  - first:
+      213: 21300332
+    second: roguelikeCity_magenta_166
+  - first:
+      213: 21300334
+    second: roguelikeCity_magenta_167
+  - first:
+      213: 21300336
+    second: roguelikeCity_magenta_168
+  - first:
+      213: 21300338
+    second: roguelikeCity_magenta_169
+  - first:
+      213: 21300340
+    second: roguelikeCity_magenta_170
+  - first:
+      213: 21300342
+    second: roguelikeCity_magenta_171
+  - first:
+      213: 21300344
+    second: roguelikeCity_magenta_172
+  - first:
+      213: 21300346
+    second: roguelikeCity_magenta_173
+  - first:
+      213: 21300348
+    second: roguelikeCity_magenta_174
+  - first:
+      213: 21300350
+    second: roguelikeCity_magenta_175
+  - first:
+      213: 21300352
+    second: roguelikeCity_magenta_176
+  - first:
+      213: 21300354
+    second: roguelikeCity_magenta_177
+  - first:
+      213: 21300356
+    second: roguelikeCity_magenta_178
+  - first:
+      213: 21300358
+    second: roguelikeCity_magenta_179
+  - first:
+      213: 21300360
+    second: roguelikeCity_magenta_180
+  - first:
+      213: 21300362
+    second: roguelikeCity_magenta_181
+  - first:
+      213: 21300364
+    second: roguelikeCity_magenta_182
+  - first:
+      213: 21300366
+    second: roguelikeCity_magenta_183
+  - first:
+      213: 21300368
+    second: roguelikeCity_magenta_184
+  - first:
+      213: 21300370
+    second: roguelikeCity_magenta_185
+  - first:
+      213: 21300372
+    second: roguelikeCity_magenta_186
+  - first:
+      213: 21300374
+    second: roguelikeCity_magenta_187
+  - first:
+      213: 21300376
+    second: roguelikeCity_magenta_188
+  - first:
+      213: 21300378
+    second: roguelikeCity_magenta_189
+  - first:
+      213: 21300380
+    second: roguelikeCity_magenta_190
+  - first:
+      213: 21300382
+    second: roguelikeCity_magenta_191
+  - first:
+      213: 21300384
+    second: roguelikeCity_magenta_192
+  - first:
+      213: 21300386
+    second: roguelikeCity_magenta_193
+  - first:
+      213: 21300388
+    second: roguelikeCity_magenta_194
+  - first:
+      213: 21300390
+    second: roguelikeCity_magenta_195
+  - first:
+      213: 21300392
+    second: roguelikeCity_magenta_196
+  - first:
+      213: 21300394
+    second: roguelikeCity_magenta_197
+  - first:
+      213: 21300396
+    second: roguelikeCity_magenta_198
+  - first:
+      213: 21300398
+    second: roguelikeCity_magenta_199
+  - first:
+      213: 21300400
+    second: roguelikeCity_magenta_200
+  - first:
+      213: 21300402
+    second: roguelikeCity_magenta_201
+  - first:
+      213: 21300404
+    second: roguelikeCity_magenta_202
+  - first:
+      213: 21300406
+    second: roguelikeCity_magenta_203
+  - first:
+      213: 21300408
+    second: roguelikeCity_magenta_204
+  - first:
+      213: 21300410
+    second: roguelikeCity_magenta_205
+  - first:
+      213: 21300412
+    second: roguelikeCity_magenta_206
+  - first:
+      213: 21300414
+    second: roguelikeCity_magenta_207
+  - first:
+      213: 21300416
+    second: roguelikeCity_magenta_208
+  - first:
+      213: 21300418
+    second: roguelikeCity_magenta_209
+  - first:
+      213: 21300420
+    second: roguelikeCity_magenta_210
+  - first:
+      213: 21300422
+    second: roguelikeCity_magenta_211
+  - first:
+      213: 21300424
+    second: roguelikeCity_magenta_212
+  - first:
+      213: 21300426
+    second: roguelikeCity_magenta_213
+  - first:
+      213: 21300428
+    second: roguelikeCity_magenta_214
+  - first:
+      213: 21300430
+    second: roguelikeCity_magenta_215
+  - first:
+      213: 21300432
+    second: roguelikeCity_magenta_216
+  - first:
+      213: 21300434
+    second: roguelikeCity_magenta_217
+  - first:
+      213: 21300436
+    second: roguelikeCity_magenta_218
+  - first:
+      213: 21300438
+    second: roguelikeCity_magenta_219
+  - first:
+      213: 21300440
+    second: roguelikeCity_magenta_220
+  - first:
+      213: 21300442
+    second: roguelikeCity_magenta_221
+  - first:
+      213: 21300444
+    second: roguelikeCity_magenta_222
+  - first:
+      213: 21300446
+    second: roguelikeCity_magenta_223
+  - first:
+      213: 21300448
+    second: roguelikeCity_magenta_224
+  - first:
+      213: 21300450
+    second: roguelikeCity_magenta_225
+  - first:
+      213: 21300452
+    second: roguelikeCity_magenta_226
+  - first:
+      213: 21300454
+    second: roguelikeCity_magenta_227
+  - first:
+      213: 21300456
+    second: roguelikeCity_magenta_228
+  - first:
+      213: 21300458
+    second: roguelikeCity_magenta_229
+  - first:
+      213: 21300460
+    second: roguelikeCity_magenta_230
+  - first:
+      213: 21300462
+    second: roguelikeCity_magenta_231
+  - first:
+      213: 21300464
+    second: roguelikeCity_magenta_232
+  - first:
+      213: 21300466
+    second: roguelikeCity_magenta_233
+  - first:
+      213: 21300468
+    second: roguelikeCity_magenta_234
+  - first:
+      213: 21300470
+    second: roguelikeCity_magenta_235
+  - first:
+      213: 21300472
+    second: roguelikeCity_magenta_236
+  - first:
+      213: 21300474
+    second: roguelikeCity_magenta_237
+  - first:
+      213: 21300476
+    second: roguelikeCity_magenta_238
+  - first:
+      213: 21300478
+    second: roguelikeCity_magenta_239
+  - first:
+      213: 21300480
+    second: roguelikeCity_magenta_240
+  - first:
+      213: 21300482
+    second: roguelikeCity_magenta_241
+  - first:
+      213: 21300484
+    second: roguelikeCity_magenta_242
+  - first:
+      213: 21300486
+    second: roguelikeCity_magenta_243
+  - first:
+      213: 21300488
+    second: roguelikeCity_magenta_244
+  - first:
+      213: 21300490
+    second: roguelikeCity_magenta_245
+  - first:
+      213: 21300492
+    second: roguelikeCity_magenta_246
+  - first:
+      213: 21300494
+    second: roguelikeCity_magenta_247
+  - first:
+      213: 21300496
+    second: roguelikeCity_magenta_248
+  - first:
+      213: 21300498
+    second: roguelikeCity_magenta_249
+  - first:
+      213: 21300500
+    second: roguelikeCity_magenta_250
+  - first:
+      213: 21300502
+    second: roguelikeCity_magenta_251
+  - first:
+      213: 21300504
+    second: roguelikeCity_magenta_252
+  - first:
+      213: 21300506
+    second: roguelikeCity_magenta_253
+  - first:
+      213: 21300508
+    second: roguelikeCity_magenta_254
+  - first:
+      213: 21300510
+    second: roguelikeCity_magenta_255
+  - first:
+      213: 21300512
+    second: roguelikeCity_magenta_256
+  - first:
+      213: 21300514
+    second: roguelikeCity_magenta_257
+  - first:
+      213: 21300516
+    second: roguelikeCity_magenta_258
+  - first:
+      213: 21300518
+    second: roguelikeCity_magenta_259
+  - first:
+      213: 21300520
+    second: roguelikeCity_magenta_260
+  - first:
+      213: 21300522
+    second: roguelikeCity_magenta_261
+  - first:
+      213: 21300524
+    second: roguelikeCity_magenta_262
+  - first:
+      213: 21300526
+    second: roguelikeCity_magenta_263
+  - first:
+      213: 21300528
+    second: roguelikeCity_magenta_264
+  - first:
+      213: 21300530
+    second: roguelikeCity_magenta_265
+  - first:
+      213: 21300532
+    second: roguelikeCity_magenta_266
+  - first:
+      213: 21300534
+    second: roguelikeCity_magenta_267
+  - first:
+      213: 21300536
+    second: roguelikeCity_magenta_268
+  - first:
+      213: 21300538
+    second: roguelikeCity_magenta_269
+  - first:
+      213: 21300540
+    second: roguelikeCity_magenta_270
+  - first:
+      213: 21300542
+    second: roguelikeCity_magenta_271
+  - first:
+      213: 21300544
+    second: roguelikeCity_magenta_272
+  - first:
+      213: 21300546
+    second: roguelikeCity_magenta_273
+  - first:
+      213: 21300548
+    second: roguelikeCity_magenta_274
+  - first:
+      213: 21300550
+    second: roguelikeCity_magenta_275
+  - first:
+      213: 21300552
+    second: roguelikeCity_magenta_276
+  - first:
+      213: 21300554
+    second: roguelikeCity_magenta_277
+  - first:
+      213: 21300556
+    second: roguelikeCity_magenta_278
+  - first:
+      213: 21300558
+    second: roguelikeCity_magenta_279
+  - first:
+      213: 21300560
+    second: roguelikeCity_magenta_280
+  - first:
+      213: 21300562
+    second: roguelikeCity_magenta_281
+  - first:
+      213: 21300564
+    second: roguelikeCity_magenta_282
+  - first:
+      213: 21300566
+    second: roguelikeCity_magenta_283
+  - first:
+      213: 21300568
+    second: roguelikeCity_magenta_284
+  - first:
+      213: 21300570
+    second: roguelikeCity_magenta_285
+  - first:
+      213: 21300572
+    second: roguelikeCity_magenta_286
+  - first:
+      213: 21300574
+    second: roguelikeCity_magenta_287
+  - first:
+      213: 21300576
+    second: roguelikeCity_magenta_288
+  - first:
+      213: 21300578
+    second: roguelikeCity_magenta_289
+  - first:
+      213: 21300580
+    second: roguelikeCity_magenta_290
+  - first:
+      213: 21300582
+    second: roguelikeCity_magenta_291
+  - first:
+      213: 21300584
+    second: roguelikeCity_magenta_292
+  - first:
+      213: 21300586
+    second: roguelikeCity_magenta_293
+  - first:
+      213: 21300588
+    second: roguelikeCity_magenta_294
+  - first:
+      213: 21300590
+    second: roguelikeCity_magenta_295
+  - first:
+      213: 21300592
+    second: roguelikeCity_magenta_296
+  - first:
+      213: 21300594
+    second: roguelikeCity_magenta_297
+  - first:
+      213: 21300596
+    second: roguelikeCity_magenta_298
+  - first:
+      213: 21300598
+    second: roguelikeCity_magenta_299
+  - first:
+      213: 21300600
+    second: roguelikeCity_magenta_300
+  - first:
+      213: 21300602
+    second: roguelikeCity_magenta_301
+  - first:
+      213: 21300604
+    second: roguelikeCity_magenta_302
+  - first:
+      213: 21300606
+    second: roguelikeCity_magenta_303
+  - first:
+      213: 21300608
+    second: roguelikeCity_magenta_304
+  - first:
+      213: 21300610
+    second: roguelikeCity_magenta_305
+  - first:
+      213: 21300612
+    second: roguelikeCity_magenta_306
+  - first:
+      213: 21300614
+    second: roguelikeCity_magenta_307
+  - first:
+      213: 21300616
+    second: roguelikeCity_magenta_308
+  - first:
+      213: 21300618
+    second: roguelikeCity_magenta_309
+  - first:
+      213: 21300620
+    second: roguelikeCity_magenta_310
+  - first:
+      213: 21300622
+    second: roguelikeCity_magenta_311
+  - first:
+      213: 21300624
+    second: roguelikeCity_magenta_312
+  - first:
+      213: 21300626
+    second: roguelikeCity_magenta_313
+  - first:
+      213: 21300628
+    second: roguelikeCity_magenta_314
+  - first:
+      213: 21300630
+    second: roguelikeCity_magenta_315
+  - first:
+      213: 21300632
+    second: roguelikeCity_magenta_316
+  - first:
+      213: 21300634
+    second: roguelikeCity_magenta_317
+  - first:
+      213: 21300636
+    second: roguelikeCity_magenta_318
+  - first:
+      213: 21300638
+    second: roguelikeCity_magenta_319
+  - first:
+      213: 21300640
+    second: roguelikeCity_magenta_320
+  - first:
+      213: 21300642
+    second: roguelikeCity_magenta_321
+  - first:
+      213: 21300644
+    second: roguelikeCity_magenta_322
+  - first:
+      213: 21300646
+    second: roguelikeCity_magenta_323
+  - first:
+      213: 21300648
+    second: roguelikeCity_magenta_324
+  - first:
+      213: 21300650
+    second: roguelikeCity_magenta_325
+  - first:
+      213: 21300652
+    second: roguelikeCity_magenta_326
+  - first:
+      213: 21300654
+    second: roguelikeCity_magenta_327
+  - first:
+      213: 21300656
+    second: roguelikeCity_magenta_328
+  - first:
+      213: 21300658
+    second: roguelikeCity_magenta_329
+  - first:
+      213: 21300660
+    second: roguelikeCity_magenta_330
+  - first:
+      213: 21300662
+    second: roguelikeCity_magenta_331
+  - first:
+      213: 21300664
+    second: roguelikeCity_magenta_332
+  - first:
+      213: 21300666
+    second: roguelikeCity_magenta_333
+  - first:
+      213: 21300668
+    second: roguelikeCity_magenta_334
+  - first:
+      213: 21300670
+    second: roguelikeCity_magenta_335
+  - first:
+      213: 21300672
+    second: roguelikeCity_magenta_336
+  - first:
+      213: 21300674
+    second: roguelikeCity_magenta_337
+  - first:
+      213: 21300676
+    second: roguelikeCity_magenta_338
+  - first:
+      213: 21300678
+    second: roguelikeCity_magenta_339
+  - first:
+      213: 21300680
+    second: roguelikeCity_magenta_340
+  - first:
+      213: 21300682
+    second: roguelikeCity_magenta_341
+  - first:
+      213: 21300684
+    second: roguelikeCity_magenta_342
+  - first:
+      213: 21300686
+    second: roguelikeCity_magenta_343
+  - first:
+      213: 21300688
+    second: roguelikeCity_magenta_344
+  - first:
+      213: 21300690
+    second: roguelikeCity_magenta_345
+  - first:
+      213: 21300692
+    second: roguelikeCity_magenta_346
+  - first:
+      213: 21300694
+    second: roguelikeCity_magenta_347
+  - first:
+      213: 21300696
+    second: roguelikeCity_magenta_348
+  - first:
+      213: 21300698
+    second: roguelikeCity_magenta_349
+  - first:
+      213: 21300700
+    second: roguelikeCity_magenta_350
+  - first:
+      213: 21300702
+    second: roguelikeCity_magenta_351
+  - first:
+      213: 21300704
+    second: roguelikeCity_magenta_352
+  - first:
+      213: 21300706
+    second: roguelikeCity_magenta_353
+  - first:
+      213: 21300708
+    second: roguelikeCity_magenta_354
+  - first:
+      213: 21300710
+    second: roguelikeCity_magenta_355
+  - first:
+      213: 21300712
+    second: roguelikeCity_magenta_356
+  - first:
+      213: 21300714
+    second: roguelikeCity_magenta_357
+  - first:
+      213: 21300716
+    second: roguelikeCity_magenta_358
+  - first:
+      213: 21300718
+    second: roguelikeCity_magenta_359
+  - first:
+      213: 21300720
+    second: roguelikeCity_magenta_360
+  - first:
+      213: 21300722
+    second: roguelikeCity_magenta_361
+  - first:
+      213: 21300724
+    second: roguelikeCity_magenta_362
+  - first:
+      213: 21300726
+    second: roguelikeCity_magenta_363
+  - first:
+      213: 21300728
+    second: roguelikeCity_magenta_364
+  - first:
+      213: 21300730
+    second: roguelikeCity_magenta_365
+  - first:
+      213: 21300732
+    second: roguelikeCity_magenta_366
+  - first:
+      213: 21300734
+    second: roguelikeCity_magenta_367
+  - first:
+      213: 21300736
+    second: roguelikeCity_magenta_368
+  - first:
+      213: 21300738
+    second: roguelikeCity_magenta_369
+  - first:
+      213: 21300740
+    second: roguelikeCity_magenta_370
+  - first:
+      213: 21300742
+    second: roguelikeCity_magenta_371
+  - first:
+      213: 21300744
+    second: roguelikeCity_magenta_372
+  - first:
+      213: 21300746
+    second: roguelikeCity_magenta_373
+  - first:
+      213: 21300748
+    second: roguelikeCity_magenta_374
+  - first:
+      213: 21300750
+    second: roguelikeCity_magenta_375
+  - first:
+      213: 21300752
+    second: roguelikeCity_magenta_376
+  - first:
+      213: 21300754
+    second: roguelikeCity_magenta_377
+  - first:
+      213: 21300756
+    second: roguelikeCity_magenta_378
+  - first:
+      213: 21300758
+    second: roguelikeCity_magenta_379
+  - first:
+      213: 21300760
+    second: roguelikeCity_magenta_380
+  - first:
+      213: 21300762
+    second: roguelikeCity_magenta_381
+  - first:
+      213: 21300764
+    second: roguelikeCity_magenta_382
+  - first:
+      213: 21300766
+    second: roguelikeCity_magenta_383
+  - first:
+      213: 21300768
+    second: roguelikeCity_magenta_384
+  - first:
+      213: 21300770
+    second: roguelikeCity_magenta_385
+  - first:
+      213: 21300772
+    second: roguelikeCity_magenta_386
+  - first:
+      213: 21300774
+    second: roguelikeCity_magenta_387
+  - first:
+      213: 21300776
+    second: roguelikeCity_magenta_388
+  - first:
+      213: 21300778
+    second: roguelikeCity_magenta_389
+  - first:
+      213: 21300780
+    second: roguelikeCity_magenta_390
+  - first:
+      213: 21300782
+    second: roguelikeCity_magenta_391
+  - first:
+      213: 21300784
+    second: roguelikeCity_magenta_392
+  - first:
+      213: 21300786
+    second: roguelikeCity_magenta_393
+  - first:
+      213: 21300788
+    second: roguelikeCity_magenta_394
+  - first:
+      213: 21300790
+    second: roguelikeCity_magenta_395
+  - first:
+      213: 21300792
+    second: roguelikeCity_magenta_396
+  - first:
+      213: 21300794
+    second: roguelikeCity_magenta_397
+  - first:
+      213: 21300796
+    second: roguelikeCity_magenta_398
+  - first:
+      213: 21300798
+    second: roguelikeCity_magenta_399
+  - first:
+      213: 21300800
+    second: roguelikeCity_magenta_400
+  - first:
+      213: 21300802
+    second: roguelikeCity_magenta_401
+  - first:
+      213: 21300804
+    second: roguelikeCity_magenta_402
+  - first:
+      213: 21300806
+    second: roguelikeCity_magenta_403
+  - first:
+      213: 21300808
+    second: roguelikeCity_magenta_404
+  - first:
+      213: 21300810
+    second: roguelikeCity_magenta_405
+  - first:
+      213: 21300812
+    second: roguelikeCity_magenta_406
+  - first:
+      213: 21300814
+    second: roguelikeCity_magenta_407
+  - first:
+      213: 21300816
+    second: roguelikeCity_magenta_408
+  - first:
+      213: 21300818
+    second: roguelikeCity_magenta_409
+  - first:
+      213: 21300820
+    second: roguelikeCity_magenta_410
+  - first:
+      213: 21300822
+    second: roguelikeCity_magenta_411
+  - first:
+      213: 21300824
+    second: roguelikeCity_magenta_412
+  - first:
+      213: 21300826
+    second: roguelikeCity_magenta_413
+  - first:
+      213: 21300828
+    second: roguelikeCity_magenta_414
+  - first:
+      213: 21300830
+    second: roguelikeCity_magenta_415
+  - first:
+      213: 21300832
+    second: roguelikeCity_magenta_416
+  - first:
+      213: 21300834
+    second: roguelikeCity_magenta_417
+  - first:
+      213: 21300836
+    second: roguelikeCity_magenta_418
+  - first:
+      213: 21300838
+    second: roguelikeCity_magenta_419
+  - first:
+      213: 21300840
+    second: roguelikeCity_magenta_420
+  - first:
+      213: 21300842
+    second: roguelikeCity_magenta_421
+  - first:
+      213: 21300844
+    second: roguelikeCity_magenta_422
+  - first:
+      213: 21300846
+    second: roguelikeCity_magenta_423
+  - first:
+      213: 21300848
+    second: roguelikeCity_magenta_424
+  - first:
+      213: 21300850
+    second: roguelikeCity_magenta_425
+  - first:
+      213: 21300852
+    second: roguelikeCity_magenta_426
+  - first:
+      213: 21300854
+    second: roguelikeCity_magenta_427
+  - first:
+      213: 21300856
+    second: roguelikeCity_magenta_428
+  - first:
+      213: 21300858
+    second: roguelikeCity_magenta_429
+  - first:
+      213: 21300860
+    second: roguelikeCity_magenta_430
+  - first:
+      213: 21300862
+    second: roguelikeCity_magenta_431
+  - first:
+      213: 21300864
+    second: roguelikeCity_magenta_432
+  - first:
+      213: 21300866
+    second: roguelikeCity_magenta_433
+  - first:
+      213: 21300868
+    second: roguelikeCity_magenta_434
+  - first:
+      213: 21300870
+    second: roguelikeCity_magenta_435
+  - first:
+      213: 21300872
+    second: roguelikeCity_magenta_436
+  - first:
+      213: 21300874
+    second: roguelikeCity_magenta_437
+  - first:
+      213: 21300876
+    second: roguelikeCity_magenta_438
+  - first:
+      213: 21300878
+    second: roguelikeCity_magenta_439
+  - first:
+      213: 21300880
+    second: roguelikeCity_magenta_440
+  - first:
+      213: 21300882
+    second: roguelikeCity_magenta_441
+  - first:
+      213: 21300884
+    second: roguelikeCity_magenta_442
+  - first:
+      213: 21300886
+    second: roguelikeCity_magenta_443
+  - first:
+      213: 21300888
+    second: roguelikeCity_magenta_444
+  - first:
+      213: 21300890
+    second: roguelikeCity_magenta_445
+  - first:
+      213: 21300892
+    second: roguelikeCity_magenta_446
+  - first:
+      213: 21300894
+    second: roguelikeCity_magenta_447
+  - first:
+      213: 21300896
+    second: roguelikeCity_magenta_448
+  - first:
+      213: 21300898
+    second: roguelikeCity_magenta_449
+  - first:
+      213: 21300900
+    second: roguelikeCity_magenta_450
+  - first:
+      213: 21300902
+    second: roguelikeCity_magenta_451
+  - first:
+      213: 21300904
+    second: roguelikeCity_magenta_452
+  - first:
+      213: 21300906
+    second: roguelikeCity_magenta_453
+  - first:
+      213: 21300908
+    second: roguelikeCity_magenta_454
+  - first:
+      213: 21300910
+    second: roguelikeCity_magenta_455
+  - first:
+      213: 21300912
+    second: roguelikeCity_magenta_456
+  - first:
+      213: 21300914
+    second: roguelikeCity_magenta_457
+  - first:
+      213: 21300916
+    second: roguelikeCity_magenta_458
+  - first:
+      213: 21300918
+    second: roguelikeCity_magenta_459
+  - first:
+      213: 21300920
+    second: roguelikeCity_magenta_460
+  - first:
+      213: 21300922
+    second: roguelikeCity_magenta_461
+  - first:
+      213: 21300924
+    second: roguelikeCity_magenta_462
+  - first:
+      213: 21300926
+    second: roguelikeCity_magenta_463
+  - first:
+      213: 21300928
+    second: roguelikeCity_magenta_464
+  - first:
+      213: 21300930
+    second: roguelikeCity_magenta_465
+  - first:
+      213: 21300932
+    second: roguelikeCity_magenta_466
+  - first:
+      213: 21300934
+    second: roguelikeCity_magenta_467
+  - first:
+      213: 21300936
+    second: roguelikeCity_magenta_468
+  - first:
+      213: 21300938
+    second: roguelikeCity_magenta_469
+  - first:
+      213: 21300940
+    second: roguelikeCity_magenta_470
+  - first:
+      213: 21300942
+    second: roguelikeCity_magenta_471
+  - first:
+      213: 21300944
+    second: roguelikeCity_magenta_472
+  - first:
+      213: 21300946
+    second: roguelikeCity_magenta_473
+  - first:
+      213: 21300948
+    second: roguelikeCity_magenta_474
+  - first:
+      213: 21300950
+    second: roguelikeCity_magenta_475
+  - first:
+      213: 21300952
+    second: roguelikeCity_magenta_476
+  - first:
+      213: 21300954
+    second: roguelikeCity_magenta_477
+  - first:
+      213: 21300956
+    second: roguelikeCity_magenta_478
+  - first:
+      213: 21300958
+    second: roguelikeCity_magenta_479
+  - first:
+      213: 21300960
+    second: roguelikeCity_magenta_480
+  - first:
+      213: 21300962
+    second: roguelikeCity_magenta_481
+  - first:
+      213: 21300964
+    second: roguelikeCity_magenta_482
+  - first:
+      213: 21300966
+    second: roguelikeCity_magenta_483
+  - first:
+      213: 21300968
+    second: roguelikeCity_magenta_484
+  - first:
+      213: 21300970
+    second: roguelikeCity_magenta_485
+  - first:
+      213: 21300972
+    second: roguelikeCity_magenta_486
+  - first:
+      213: 21300974
+    second: roguelikeCity_magenta_487
+  - first:
+      213: 21300976
+    second: roguelikeCity_magenta_488
+  - first:
+      213: 21300978
+    second: roguelikeCity_magenta_489
+  - first:
+      213: 21300980
+    second: roguelikeCity_magenta_490
+  - first:
+      213: 21300982
+    second: roguelikeCity_magenta_491
+  - first:
+      213: 21300984
+    second: roguelikeCity_magenta_492
+  - first:
+      213: 21300986
+    second: roguelikeCity_magenta_493
+  - first:
+      213: 21300988
+    second: roguelikeCity_magenta_494
+  - first:
+      213: 21300990
+    second: roguelikeCity_magenta_495
+  - first:
+      213: 21300992
+    second: roguelikeCity_magenta_496
+  - first:
+      213: 21300994
+    second: roguelikeCity_magenta_497
+  - first:
+      213: 21300996
+    second: roguelikeCity_magenta_498
+  - first:
+      213: 21300998
+    second: roguelikeCity_magenta_499
+  - first:
+      213: 21301000
+    second: roguelikeCity_magenta_500
+  - first:
+      213: 21301002
+    second: roguelikeCity_magenta_501
+  - first:
+      213: 21301004
+    second: roguelikeCity_magenta_502
+  - first:
+      213: 21301006
+    second: roguelikeCity_magenta_503
+  - first:
+      213: 21301008
+    second: roguelikeCity_magenta_504
+  - first:
+      213: 21301010
+    second: roguelikeCity_magenta_505
+  - first:
+      213: 21301012
+    second: roguelikeCity_magenta_506
+  - first:
+      213: 21301014
+    second: roguelikeCity_magenta_507
+  - first:
+      213: 21301016
+    second: roguelikeCity_magenta_508
+  - first:
+      213: 21301018
+    second: roguelikeCity_magenta_509
+  - first:
+      213: 21301020
+    second: roguelikeCity_magenta_510
+  - first:
+      213: 21301022
+    second: roguelikeCity_magenta_511
+  - first:
+      213: 21301024
+    second: roguelikeCity_magenta_512
+  - first:
+      213: 21301026
+    second: roguelikeCity_magenta_513
+  - first:
+      213: 21301028
+    second: roguelikeCity_magenta_514
+  - first:
+      213: 21301030
+    second: roguelikeCity_magenta_515
+  - first:
+      213: 21301032
+    second: roguelikeCity_magenta_516
+  - first:
+      213: 21301034
+    second: roguelikeCity_magenta_517
+  - first:
+      213: 21301036
+    second: roguelikeCity_magenta_518
+  - first:
+      213: 21301038
+    second: roguelikeCity_magenta_519
+  - first:
+      213: 21301040
+    second: roguelikeCity_magenta_520
+  - first:
+      213: 21301042
+    second: roguelikeCity_magenta_521
+  - first:
+      213: 21301044
+    second: roguelikeCity_magenta_522
+  - first:
+      213: 21301046
+    second: roguelikeCity_magenta_523
+  - first:
+      213: 21301048
+    second: roguelikeCity_magenta_524
+  - first:
+      213: 21301050
+    second: roguelikeCity_magenta_525
+  - first:
+      213: 21301052
+    second: roguelikeCity_magenta_526
+  - first:
+      213: 21301054
+    second: roguelikeCity_magenta_527
+  - first:
+      213: 21301056
+    second: roguelikeCity_magenta_528
+  - first:
+      213: 21301058
+    second: roguelikeCity_magenta_529
+  - first:
+      213: 21301060
+    second: roguelikeCity_magenta_530
+  - first:
+      213: 21301062
+    second: roguelikeCity_magenta_531
+  - first:
+      213: 21301064
+    second: roguelikeCity_magenta_532
+  - first:
+      213: 21301066
+    second: roguelikeCity_magenta_533
+  - first:
+      213: 21301068
+    second: roguelikeCity_magenta_534
+  - first:
+      213: 21301070
+    second: roguelikeCity_magenta_535
+  - first:
+      213: 21301072
+    second: roguelikeCity_magenta_536
+  - first:
+      213: 21301074
+    second: roguelikeCity_magenta_537
+  - first:
+      213: 21301076
+    second: roguelikeCity_magenta_538
+  - first:
+      213: 21301078
+    second: roguelikeCity_magenta_539
+  - first:
+      213: 21301080
+    second: roguelikeCity_magenta_540
+  - first:
+      213: 21301082
+    second: roguelikeCity_magenta_541
+  - first:
+      213: 21301084
+    second: roguelikeCity_magenta_542
+  - first:
+      213: 21301086
+    second: roguelikeCity_magenta_543
+  - first:
+      213: 21301088
+    second: roguelikeCity_magenta_544
+  - first:
+      213: 21301090
+    second: roguelikeCity_magenta_545
+  - first:
+      213: 21301092
+    second: roguelikeCity_magenta_546
+  - first:
+      213: 21301094
+    second: roguelikeCity_magenta_547
+  - first:
+      213: 21301096
+    second: roguelikeCity_magenta_548
+  - first:
+      213: 21301098
+    second: roguelikeCity_magenta_549
+  - first:
+      213: 21301100
+    second: roguelikeCity_magenta_550
+  - first:
+      213: 21301102
+    second: roguelikeCity_magenta_551
+  - first:
+      213: 21301104
+    second: roguelikeCity_magenta_552
+  - first:
+      213: 21301106
+    second: roguelikeCity_magenta_553
+  - first:
+      213: 21301108
+    second: roguelikeCity_magenta_554
+  - first:
+      213: 21301110
+    second: roguelikeCity_magenta_555
+  - first:
+      213: 21301112
+    second: roguelikeCity_magenta_556
+  - first:
+      213: 21301114
+    second: roguelikeCity_magenta_557
+  - first:
+      213: 21301116
+    second: roguelikeCity_magenta_558
+  - first:
+      213: 21301118
+    second: roguelikeCity_magenta_559
+  - first:
+      213: 21301120
+    second: roguelikeCity_magenta_560
+  - first:
+      213: 21301122
+    second: roguelikeCity_magenta_561
+  - first:
+      213: 21301124
+    second: roguelikeCity_magenta_562
+  - first:
+      213: 21301126
+    second: roguelikeCity_magenta_563
+  - first:
+      213: 21301128
+    second: roguelikeCity_magenta_564
+  - first:
+      213: 21301130
+    second: roguelikeCity_magenta_565
+  - first:
+      213: 21301132
+    second: roguelikeCity_magenta_566
+  - first:
+      213: 21301134
+    second: roguelikeCity_magenta_567
+  - first:
+      213: 21301136
+    second: roguelikeCity_magenta_568
+  - first:
+      213: 21301138
+    second: roguelikeCity_magenta_569
+  - first:
+      213: 21301140
+    second: roguelikeCity_magenta_570
+  - first:
+      213: 21301142
+    second: roguelikeCity_magenta_571
+  - first:
+      213: 21301144
+    second: roguelikeCity_magenta_572
+  - first:
+      213: 21301146
+    second: roguelikeCity_magenta_573
+  - first:
+      213: 21301148
+    second: roguelikeCity_magenta_574
+  - first:
+      213: 21301150
+    second: roguelikeCity_magenta_575
+  - first:
+      213: 21301152
+    second: roguelikeCity_magenta_576
+  - first:
+      213: 21301154
+    second: roguelikeCity_magenta_577
+  - first:
+      213: 21301156
+    second: roguelikeCity_magenta_578
+  - first:
+      213: 21301158
+    second: roguelikeCity_magenta_579
+  - first:
+      213: 21301160
+    second: roguelikeCity_magenta_580
+  - first:
+      213: 21301162
+    second: roguelikeCity_magenta_581
+  - first:
+      213: 21301164
+    second: roguelikeCity_magenta_582
+  - first:
+      213: 21301166
+    second: roguelikeCity_magenta_583
+  - first:
+      213: 21301168
+    second: roguelikeCity_magenta_584
+  - first:
+      213: 21301170
+    second: roguelikeCity_magenta_585
+  - first:
+      213: 21301172
+    second: roguelikeCity_magenta_586
+  - first:
+      213: 21301174
+    second: roguelikeCity_magenta_587
+  - first:
+      213: 21301176
+    second: roguelikeCity_magenta_588
+  - first:
+      213: 21301178
+    second: roguelikeCity_magenta_589
+  - first:
+      213: 21301180
+    second: roguelikeCity_magenta_590
+  - first:
+      213: 21301182
+    second: roguelikeCity_magenta_591
+  - first:
+      213: 21301184
+    second: roguelikeCity_magenta_592
+  - first:
+      213: 21301186
+    second: roguelikeCity_magenta_593
+  - first:
+      213: 21301188
+    second: roguelikeCity_magenta_594
+  - first:
+      213: 21301190
+    second: roguelikeCity_magenta_595
+  - first:
+      213: 21301192
+    second: roguelikeCity_magenta_596
+  - first:
+      213: 21301194
+    second: roguelikeCity_magenta_597
+  - first:
+      213: 21301196
+    second: roguelikeCity_magenta_598
+  - first:
+      213: 21301198
+    second: roguelikeCity_magenta_599
+  - first:
+      213: 21301200
+    second: roguelikeCity_magenta_600
+  - first:
+      213: 21301202
+    second: roguelikeCity_magenta_601
+  - first:
+      213: 21301204
+    second: roguelikeCity_magenta_602
+  - first:
+      213: 21301206
+    second: roguelikeCity_magenta_603
+  - first:
+      213: 21301208
+    second: roguelikeCity_magenta_604
+  - first:
+      213: 21301210
+    second: roguelikeCity_magenta_605
+  - first:
+      213: 21301212
+    second: roguelikeCity_magenta_606
+  - first:
+      213: 21301214
+    second: roguelikeCity_magenta_607
+  - first:
+      213: 21301216
+    second: roguelikeCity_magenta_608
+  - first:
+      213: 21301218
+    second: roguelikeCity_magenta_609
+  - first:
+      213: 21301220
+    second: roguelikeCity_magenta_610
+  - first:
+      213: 21301222
+    second: roguelikeCity_magenta_611
+  - first:
+      213: 21301224
+    second: roguelikeCity_magenta_612
+  - first:
+      213: 21301226
+    second: roguelikeCity_magenta_613
+  - first:
+      213: 21301228
+    second: roguelikeCity_magenta_614
+  - first:
+      213: 21301230
+    second: roguelikeCity_magenta_615
+  - first:
+      213: 21301232
+    second: roguelikeCity_magenta_616
+  - first:
+      213: 21301234
+    second: roguelikeCity_magenta_617
+  - first:
+      213: 21301236
+    second: roguelikeCity_magenta_618
+  - first:
+      213: 21301238
+    second: roguelikeCity_magenta_619
+  - first:
+      213: 21301240
+    second: roguelikeCity_magenta_620
+  - first:
+      213: 21301242
+    second: roguelikeCity_magenta_621
+  - first:
+      213: 21301244
+    second: roguelikeCity_magenta_622
+  - first:
+      213: 21301246
+    second: roguelikeCity_magenta_623
+  - first:
+      213: 21301248
+    second: roguelikeCity_magenta_624
+  - first:
+      213: 21301250
+    second: roguelikeCity_magenta_625
+  - first:
+      213: 21301252
+    second: roguelikeCity_magenta_626
+  - first:
+      213: 21301254
+    second: roguelikeCity_magenta_627
+  - first:
+      213: 21301256
+    second: roguelikeCity_magenta_628
+  - first:
+      213: 21301258
+    second: roguelikeCity_magenta_629
+  - first:
+      213: 21301260
+    second: roguelikeCity_magenta_630
+  - first:
+      213: 21301262
+    second: roguelikeCity_magenta_631
+  - first:
+      213: 21301264
+    second: roguelikeCity_magenta_632
+  - first:
+      213: 21301266
+    second: roguelikeCity_magenta_633
+  - first:
+      213: 21301268
+    second: roguelikeCity_magenta_634
+  - first:
+      213: 21301270
+    second: roguelikeCity_magenta_635
+  - first:
+      213: 21301272
+    second: roguelikeCity_magenta_636
+  - first:
+      213: 21301274
+    second: roguelikeCity_magenta_637
+  - first:
+      213: 21301276
+    second: roguelikeCity_magenta_638
+  - first:
+      213: 21301278
+    second: roguelikeCity_magenta_639
+  - first:
+      213: 21301280
+    second: roguelikeCity_magenta_640
+  - first:
+      213: 21301282
+    second: roguelikeCity_magenta_641
+  - first:
+      213: 21301284
+    second: roguelikeCity_magenta_642
+  - first:
+      213: 21301286
+    second: roguelikeCity_magenta_643
+  - first:
+      213: 21301288
+    second: roguelikeCity_magenta_644
+  - first:
+      213: 21301290
+    second: roguelikeCity_magenta_645
+  - first:
+      213: 21301292
+    second: roguelikeCity_magenta_646
+  - first:
+      213: 21301294
+    second: roguelikeCity_magenta_647
+  - first:
+      213: 21301296
+    second: roguelikeCity_magenta_648
+  - first:
+      213: 21301298
+    second: roguelikeCity_magenta_649
+  - first:
+      213: 21301300
+    second: roguelikeCity_magenta_650
+  - first:
+      213: 21301302
+    second: roguelikeCity_magenta_651
+  - first:
+      213: 21301304
+    second: roguelikeCity_magenta_652
+  - first:
+      213: 21301306
+    second: roguelikeCity_magenta_653
+  - first:
+      213: 21301308
+    second: roguelikeCity_magenta_654
+  - first:
+      213: 21301310
+    second: roguelikeCity_magenta_655
+  - first:
+      213: 21301312
+    second: roguelikeCity_magenta_656
+  - first:
+      213: 21301314
+    second: roguelikeCity_magenta_657
+  - first:
+      213: 21301316
+    second: roguelikeCity_magenta_658
+  - first:
+      213: 21301318
+    second: roguelikeCity_magenta_659
+  - first:
+      213: 21301320
+    second: roguelikeCity_magenta_660
+  - first:
+      213: 21301322
+    second: roguelikeCity_magenta_661
+  - first:
+      213: 21301324
+    second: roguelikeCity_magenta_662
+  - first:
+      213: 21301326
+    second: roguelikeCity_magenta_663
+  - first:
+      213: 21301328
+    second: roguelikeCity_magenta_664
+  - first:
+      213: 21301330
+    second: roguelikeCity_magenta_665
+  - first:
+      213: 21301332
+    second: roguelikeCity_magenta_666
+  - first:
+      213: 21301334
+    second: roguelikeCity_magenta_667
+  - first:
+      213: 21301336
+    second: roguelikeCity_magenta_668
+  - first:
+      213: 21301338
+    second: roguelikeCity_magenta_669
+  - first:
+      213: 21301340
+    second: roguelikeCity_magenta_670
+  - first:
+      213: 21301342
+    second: roguelikeCity_magenta_671
+  - first:
+      213: 21301344
+    second: roguelikeCity_magenta_672
+  - first:
+      213: 21301346
+    second: roguelikeCity_magenta_673
+  - first:
+      213: 21301348
+    second: roguelikeCity_magenta_674
+  - first:
+      213: 21301350
+    second: roguelikeCity_magenta_675
+  - first:
+      213: 21301352
+    second: roguelikeCity_magenta_676
+  - first:
+      213: 21301354
+    second: roguelikeCity_magenta_677
+  - first:
+      213: 21301356
+    second: roguelikeCity_magenta_678
+  - first:
+      213: 21301358
+    second: roguelikeCity_magenta_679
+  - first:
+      213: 21301360
+    second: roguelikeCity_magenta_680
+  - first:
+      213: 21301362
+    second: roguelikeCity_magenta_681
+  - first:
+      213: 21301364
+    second: roguelikeCity_magenta_682
+  - first:
+      213: 21301366
+    second: roguelikeCity_magenta_683
+  - first:
+      213: 21301368
+    second: roguelikeCity_magenta_684
+  - first:
+      213: 21301370
+    second: roguelikeCity_magenta_685
+  - first:
+      213: 21301372
+    second: roguelikeCity_magenta_686
+  - first:
+      213: 21301374
+    second: roguelikeCity_magenta_687
+  - first:
+      213: 21301376
+    second: roguelikeCity_magenta_688
+  - first:
+      213: 21301378
+    second: roguelikeCity_magenta_689
+  - first:
+      213: 21301380
+    second: roguelikeCity_magenta_690
+  - first:
+      213: 21301382
+    second: roguelikeCity_magenta_691
+  - first:
+      213: 21301384
+    second: roguelikeCity_magenta_692
+  - first:
+      213: 21301386
+    second: roguelikeCity_magenta_693
+  - first:
+      213: 21301388
+    second: roguelikeCity_magenta_694
+  - first:
+      213: 21301390
+    second: roguelikeCity_magenta_695
+  - first:
+      213: 21301392
+    second: roguelikeCity_magenta_696
+  - first:
+      213: 21301394
+    second: roguelikeCity_magenta_697
+  - first:
+      213: 21301396
+    second: roguelikeCity_magenta_698
+  - first:
+      213: 21301398
+    second: roguelikeCity_magenta_699
+  - first:
+      213: 21301400
+    second: roguelikeCity_magenta_700
+  - first:
+      213: 21301402
+    second: roguelikeCity_magenta_701
+  - first:
+      213: 21301404
+    second: roguelikeCity_magenta_702
+  - first:
+      213: 21301406
+    second: roguelikeCity_magenta_703
+  - first:
+      213: 21301408
+    second: roguelikeCity_magenta_704
+  - first:
+      213: 21301410
+    second: roguelikeCity_magenta_705
+  - first:
+      213: 21301412
+    second: roguelikeCity_magenta_706
+  - first:
+      213: 21301414
+    second: roguelikeCity_magenta_707
+  - first:
+      213: 21301416
+    second: roguelikeCity_magenta_708
+  - first:
+      213: 21301418
+    second: roguelikeCity_magenta_709
+  - first:
+      213: 21301420
+    second: roguelikeCity_magenta_710
+  - first:
+      213: 21301422
+    second: roguelikeCity_magenta_711
+  - first:
+      213: 21301424
+    second: roguelikeCity_magenta_712
+  - first:
+      213: 21301426
+    second: roguelikeCity_magenta_713
+  - first:
+      213: 21301428
+    second: roguelikeCity_magenta_714
+  - first:
+      213: 21301430
+    second: roguelikeCity_magenta_715
+  - first:
+      213: 21301432
+    second: roguelikeCity_magenta_716
+  - first:
+      213: 21301434
+    second: roguelikeCity_magenta_717
+  - first:
+      213: 21301436
+    second: roguelikeCity_magenta_718
+  - first:
+      213: 21301438
+    second: roguelikeCity_magenta_719
+  - first:
+      213: 21301440
+    second: roguelikeCity_magenta_720
+  - first:
+      213: 21301442
+    second: roguelikeCity_magenta_721
+  - first:
+      213: 21301444
+    second: roguelikeCity_magenta_722
+  - first:
+      213: 21301446
+    second: roguelikeCity_magenta_723
+  - first:
+      213: 21301448
+    second: roguelikeCity_magenta_724
+  - first:
+      213: 21301450
+    second: roguelikeCity_magenta_725
+  - first:
+      213: 21301452
+    second: roguelikeCity_magenta_726
+  - first:
+      213: 21301454
+    second: roguelikeCity_magenta_727
+  - first:
+      213: 21301456
+    second: roguelikeCity_magenta_728
+  - first:
+      213: 21301458
+    second: roguelikeCity_magenta_729
+  - first:
+      213: 21301460
+    second: roguelikeCity_magenta_730
+  - first:
+      213: 21301462
+    second: roguelikeCity_magenta_731
+  - first:
+      213: 21301464
+    second: roguelikeCity_magenta_732
+  - first:
+      213: 21301466
+    second: roguelikeCity_magenta_733
+  - first:
+      213: 21301468
+    second: roguelikeCity_magenta_734
+  - first:
+      213: 21301470
+    second: roguelikeCity_magenta_735
+  - first:
+      213: 21301472
+    second: roguelikeCity_magenta_736
+  - first:
+      213: 21301474
+    second: roguelikeCity_magenta_737
+  - first:
+      213: 21301476
+    second: roguelikeCity_magenta_738
+  - first:
+      213: 21301478
+    second: roguelikeCity_magenta_739
+  - first:
+      213: 21301480
+    second: roguelikeCity_magenta_740
+  - first:
+      213: 21301482
+    second: roguelikeCity_magenta_741
+  - first:
+      213: 21301484
+    second: roguelikeCity_magenta_742
+  - first:
+      213: 21301486
+    second: roguelikeCity_magenta_743
+  - first:
+      213: 21301488
+    second: roguelikeCity_magenta_744
+  - first:
+      213: 21301490
+    second: roguelikeCity_magenta_745
+  - first:
+      213: 21301492
+    second: roguelikeCity_magenta_746
+  - first:
+      213: 21301494
+    second: roguelikeCity_magenta_747
+  - first:
+      213: 21301496
+    second: roguelikeCity_magenta_748
+  - first:
+      213: 21301498
+    second: roguelikeCity_magenta_749
+  - first:
+      213: 21301500
+    second: roguelikeCity_magenta_750
+  - first:
+      213: 21301502
+    second: roguelikeCity_magenta_751
+  - first:
+      213: 21301504
+    second: roguelikeCity_magenta_752
+  - first:
+      213: 21301506
+    second: roguelikeCity_magenta_753
+  - first:
+      213: 21301508
+    second: roguelikeCity_magenta_754
+  - first:
+      213: 21301510
+    second: roguelikeCity_magenta_755
+  - first:
+      213: 21301512
+    second: roguelikeCity_magenta_756
+  - first:
+      213: 21301514
+    second: roguelikeCity_magenta_757
+  - first:
+      213: 21301516
+    second: roguelikeCity_magenta_758
+  - first:
+      213: 21301518
+    second: roguelikeCity_magenta_759
+  - first:
+      213: 21301520
+    second: roguelikeCity_magenta_760
+  - first:
+      213: 21301522
+    second: roguelikeCity_magenta_761
+  - first:
+      213: 21301524
+    second: roguelikeCity_magenta_762
+  - first:
+      213: 21301526
+    second: roguelikeCity_magenta_763
+  - first:
+      213: 21301528
+    second: roguelikeCity_magenta_764
+  - first:
+      213: 21301530
+    second: roguelikeCity_magenta_765
+  - first:
+      213: 21301532
+    second: roguelikeCity_magenta_766
+  - first:
+      213: 21301534
+    second: roguelikeCity_magenta_767
+  - first:
+      213: 21301536
+    second: roguelikeCity_magenta_768
+  - first:
+      213: 21301538
+    second: roguelikeCity_magenta_769
+  - first:
+      213: 21301540
+    second: roguelikeCity_magenta_770
+  - first:
+      213: 21301542
+    second: roguelikeCity_magenta_771
+  - first:
+      213: 21301544
+    second: roguelikeCity_magenta_772
+  - first:
+      213: 21301546
+    second: roguelikeCity_magenta_773
+  - first:
+      213: 21301548
+    second: roguelikeCity_magenta_774
+  - first:
+      213: 21301550
+    second: roguelikeCity_magenta_775
+  - first:
+      213: 21301552
+    second: roguelikeCity_magenta_776
+  - first:
+      213: 21301554
+    second: roguelikeCity_magenta_777
+  - first:
+      213: 21301556
+    second: roguelikeCity_magenta_778
+  - first:
+      213: 21301558
+    second: roguelikeCity_magenta_779
+  - first:
+      213: 21301560
+    second: roguelikeCity_magenta_780
+  - first:
+      213: 21301562
+    second: roguelikeCity_magenta_781
+  - first:
+      213: 21301564
+    second: roguelikeCity_magenta_782
+  - first:
+      213: 21301566
+    second: roguelikeCity_magenta_783
+  - first:
+      213: 21301568
+    second: roguelikeCity_magenta_784
+  - first:
+      213: 21301570
+    second: roguelikeCity_magenta_785
+  - first:
+      213: 21301572
+    second: roguelikeCity_magenta_786
+  - first:
+      213: 21301574
+    second: roguelikeCity_magenta_787
+  - first:
+      213: 21301576
+    second: roguelikeCity_magenta_788
+  - first:
+      213: 21301578
+    second: roguelikeCity_magenta_789
+  - first:
+      213: 21301580
+    second: roguelikeCity_magenta_790
+  - first:
+      213: 21301582
+    second: roguelikeCity_magenta_791
+  - first:
+      213: 21301584
+    second: roguelikeCity_magenta_792
+  - first:
+      213: 21301586
+    second: roguelikeCity_magenta_793
+  - first:
+      213: 21301588
+    second: roguelikeCity_magenta_794
+  - first:
+      213: 21301590
+    second: roguelikeCity_magenta_795
+  - first:
+      213: 21301592
+    second: roguelikeCity_magenta_796
+  - first:
+      213: 21301594
+    second: roguelikeCity_magenta_797
+  - first:
+      213: 21301596
+    second: roguelikeCity_magenta_798
+  - first:
+      213: 21301598
+    second: roguelikeCity_magenta_799
+  - first:
+      213: 21301600
+    second: roguelikeCity_magenta_800
+  - first:
+      213: 21301602
+    second: roguelikeCity_magenta_801
+  - first:
+      213: 21301604
+    second: roguelikeCity_magenta_802
+  - first:
+      213: 21301606
+    second: roguelikeCity_magenta_803
+  - first:
+      213: 21301608
+    second: roguelikeCity_magenta_804
+  - first:
+      213: 21301610
+    second: roguelikeCity_magenta_805
+  - first:
+      213: 21301612
+    second: roguelikeCity_magenta_806
+  - first:
+      213: 21301614
+    second: roguelikeCity_magenta_807
+  - first:
+      213: 21301616
+    second: roguelikeCity_magenta_808
+  - first:
+      213: 21301618
+    second: roguelikeCity_magenta_809
+  - first:
+      213: 21301620
+    second: roguelikeCity_magenta_810
+  - first:
+      213: 21301622
+    second: roguelikeCity_magenta_811
+  - first:
+      213: 21301624
+    second: roguelikeCity_magenta_812
+  - first:
+      213: 21301626
+    second: roguelikeCity_magenta_813
+  - first:
+      213: 21301628
+    second: roguelikeCity_magenta_814
+  - first:
+      213: 21301630
+    second: roguelikeCity_magenta_815
+  - first:
+      213: 21301632
+    second: roguelikeCity_magenta_816
+  - first:
+      213: 21301634
+    second: roguelikeCity_magenta_817
+  - first:
+      213: 21301636
+    second: roguelikeCity_magenta_818
+  - first:
+      213: 21301638
+    second: roguelikeCity_magenta_819
+  - first:
+      213: 21301640
+    second: roguelikeCity_magenta_820
+  - first:
+      213: 21301642
+    second: roguelikeCity_magenta_821
+  - first:
+      213: 21301644
+    second: roguelikeCity_magenta_822
+  - first:
+      213: 21301646
+    second: roguelikeCity_magenta_823
+  - first:
+      213: 21301648
+    second: roguelikeCity_magenta_824
+  - first:
+      213: 21301650
+    second: roguelikeCity_magenta_825
+  - first:
+      213: 21301652
+    second: roguelikeCity_magenta_826
+  - first:
+      213: 21301654
+    second: roguelikeCity_magenta_827
+  - first:
+      213: 21301656
+    second: roguelikeCity_magenta_828
+  - first:
+      213: 21301658
+    second: roguelikeCity_magenta_829
+  - first:
+      213: 21301660
+    second: roguelikeCity_magenta_830
+  - first:
+      213: 21301662
+    second: roguelikeCity_magenta_831
+  - first:
+      213: 21301664
+    second: roguelikeCity_magenta_832
+  - first:
+      213: 21301666
+    second: roguelikeCity_magenta_833
+  - first:
+      213: 21301668
+    second: roguelikeCity_magenta_834
+  - first:
+      213: 21301670
+    second: roguelikeCity_magenta_835
+  - first:
+      213: 21301672
+    second: roguelikeCity_magenta_836
+  - first:
+      213: 21301674
+    second: roguelikeCity_magenta_837
+  - first:
+      213: 21301676
+    second: roguelikeCity_magenta_838
+  - first:
+      213: 21301678
+    second: roguelikeCity_magenta_839
+  - first:
+      213: 21301680
+    second: roguelikeCity_magenta_840
+  - first:
+      213: 21301682
+    second: roguelikeCity_magenta_841
+  - first:
+      213: 21301684
+    second: roguelikeCity_magenta_842
+  - first:
+      213: 21301686
+    second: roguelikeCity_magenta_843
+  - first:
+      213: 21301688
+    second: roguelikeCity_magenta_844
+  - first:
+      213: 21301690
+    second: roguelikeCity_magenta_845
+  - first:
+      213: 21301692
+    second: roguelikeCity_magenta_846
+  - first:
+      213: 21301694
+    second: roguelikeCity_magenta_847
+  - first:
+      213: 21301696
+    second: roguelikeCity_magenta_848
+  - first:
+      213: 21301698
+    second: roguelikeCity_magenta_849
+  - first:
+      213: 21301700
+    second: roguelikeCity_magenta_850
+  - first:
+      213: 21301702
+    second: roguelikeCity_magenta_851
+  - first:
+      213: 21301704
+    second: roguelikeCity_magenta_852
+  - first:
+      213: 21301706
+    second: roguelikeCity_magenta_853
+  - first:
+      213: 21301708
+    second: roguelikeCity_magenta_854
+  - first:
+      213: 21301710
+    second: roguelikeCity_magenta_855
+  - first:
+      213: 21301712
+    second: roguelikeCity_magenta_856
+  - first:
+      213: 21301714
+    second: roguelikeCity_magenta_857
+  - first:
+      213: 21301716
+    second: roguelikeCity_magenta_858
+  - first:
+      213: 21301718
+    second: roguelikeCity_magenta_859
+  - first:
+      213: 21301720
+    second: roguelikeCity_magenta_860
+  - first:
+      213: 21301722
+    second: roguelikeCity_magenta_861
+  - first:
+      213: 21301724
+    second: roguelikeCity_magenta_862
+  - first:
+      213: 21301726
+    second: roguelikeCity_magenta_863
+  - first:
+      213: 21301728
+    second: roguelikeCity_magenta_864
+  - first:
+      213: 21301730
+    second: roguelikeCity_magenta_865
+  - first:
+      213: 21301732
+    second: roguelikeCity_magenta_866
+  - first:
+      213: 21301734
+    second: roguelikeCity_magenta_867
+  - first:
+      213: 21301736
+    second: roguelikeCity_magenta_868
+  - first:
+      213: 21301738
+    second: roguelikeCity_magenta_869
+  - first:
+      213: 21301740
+    second: roguelikeCity_magenta_870
+  - first:
+      213: 21301742
+    second: roguelikeCity_magenta_871
+  - first:
+      213: 21301744
+    second: roguelikeCity_magenta_872
+  - first:
+      213: 21301746
+    second: roguelikeCity_magenta_873
+  - first:
+      213: 21301748
+    second: roguelikeCity_magenta_874
+  - first:
+      213: 21301750
+    second: roguelikeCity_magenta_875
+  - first:
+      213: 21301752
+    second: roguelikeCity_magenta_876
+  - first:
+      213: 21301754
+    second: roguelikeCity_magenta_877
+  - first:
+      213: 21301756
+    second: roguelikeCity_magenta_878
+  - first:
+      213: 21301758
+    second: roguelikeCity_magenta_879
+  - first:
+      213: 21301760
+    second: roguelikeCity_magenta_880
+  - first:
+      213: 21301762
+    second: roguelikeCity_magenta_881
+  - first:
+      213: 21301764
+    second: roguelikeCity_magenta_882
+  - first:
+      213: 21301766
+    second: roguelikeCity_magenta_883
+  - first:
+      213: 21301768
+    second: roguelikeCity_magenta_884
+  - first:
+      213: 21301770
+    second: roguelikeCity_magenta_885
+  - first:
+      213: 21301772
+    second: roguelikeCity_magenta_886
+  - first:
+      213: 21301774
+    second: roguelikeCity_magenta_887
+  - first:
+      213: 21301776
+    second: roguelikeCity_magenta_888
+  - first:
+      213: 21301778
+    second: roguelikeCity_magenta_889
+  - first:
+      213: 21301780
+    second: roguelikeCity_magenta_890
+  - first:
+      213: 21301782
+    second: roguelikeCity_magenta_891
+  - first:
+      213: 21301784
+    second: roguelikeCity_magenta_892
+  - first:
+      213: 21301786
+    second: roguelikeCity_magenta_893
+  - first:
+      213: 21301788
+    second: roguelikeCity_magenta_894
+  - first:
+      213: 21301790
+    second: roguelikeCity_magenta_895
+  - first:
+      213: 21301792
+    second: roguelikeCity_magenta_896
+  - first:
+      213: 21301794
+    second: roguelikeCity_magenta_897
+  - first:
+      213: 21301796
+    second: roguelikeCity_magenta_898
+  - first:
+      213: 21301798
+    second: roguelikeCity_magenta_899
+  - first:
+      213: 21301800
+    second: roguelikeCity_magenta_900
+  - first:
+      213: 21301802
+    second: roguelikeCity_magenta_901
+  - first:
+      213: 21301804
+    second: roguelikeCity_magenta_902
+  - first:
+      213: 21301806
+    second: roguelikeCity_magenta_903
+  - first:
+      213: 21301808
+    second: roguelikeCity_magenta_904
+  - first:
+      213: 21301810
+    second: roguelikeCity_magenta_905
+  - first:
+      213: 21301812
+    second: roguelikeCity_magenta_906
+  - first:
+      213: 21301814
+    second: roguelikeCity_magenta_907
+  - first:
+      213: 21301816
+    second: roguelikeCity_magenta_908
+  - first:
+      213: 21301818
+    second: roguelikeCity_magenta_909
+  - first:
+      213: 21301820
+    second: roguelikeCity_magenta_910
+  - first:
+      213: 21301822
+    second: roguelikeCity_magenta_911
+  - first:
+      213: 21301824
+    second: roguelikeCity_magenta_912
+  - first:
+      213: 21301826
+    second: roguelikeCity_magenta_913
+  - first:
+      213: 21301828
+    second: roguelikeCity_magenta_914
+  - first:
+      213: 21301830
+    second: roguelikeCity_magenta_915
+  - first:
+      213: 21301832
+    second: roguelikeCity_magenta_916
+  - first:
+      213: 21301834
+    second: roguelikeCity_magenta_917
+  - first:
+      213: 21301836
+    second: roguelikeCity_magenta_918
+  - first:
+      213: 21301838
+    second: roguelikeCity_magenta_919
+  - first:
+      213: 21301840
+    second: roguelikeCity_magenta_920
+  - first:
+      213: 21301842
+    second: roguelikeCity_magenta_921
+  - first:
+      213: 21301844
+    second: roguelikeCity_magenta_922
+  - first:
+      213: 21301846
+    second: roguelikeCity_magenta_923
+  - first:
+      213: 21301848
+    second: roguelikeCity_magenta_924
+  - first:
+      213: 21301850
+    second: roguelikeCity_magenta_925
+  - first:
+      213: 21301852
+    second: roguelikeCity_magenta_926
+  - first:
+      213: 21301854
+    second: roguelikeCity_magenta_927
+  - first:
+      213: 21301856
+    second: roguelikeCity_magenta_928
+  - first:
+      213: 21301858
+    second: roguelikeCity_magenta_929
+  - first:
+      213: 21301860
+    second: roguelikeCity_magenta_930
+  - first:
+      213: 21301862
+    second: roguelikeCity_magenta_931
+  - first:
+      213: 21301864
+    second: roguelikeCity_magenta_932
+  - first:
+      213: 21301866
+    second: roguelikeCity_magenta_933
+  - first:
+      213: 21301868
+    second: roguelikeCity_magenta_934
+  - first:
+      213: 21301870
+    second: roguelikeCity_magenta_935
+  - first:
+      213: 21301872
+    second: roguelikeCity_magenta_936
+  - first:
+      213: 21301874
+    second: roguelikeCity_magenta_937
+  - first:
+      213: 21301876
+    second: roguelikeCity_magenta_938
+  - first:
+      213: 21301878
+    second: roguelikeCity_magenta_939
+  - first:
+      213: 21301880
+    second: roguelikeCity_magenta_940
+  - first:
+      213: 21301882
+    second: roguelikeCity_magenta_941
+  - first:
+      213: 21301884
+    second: roguelikeCity_magenta_942
+  - first:
+      213: 21301886
+    second: roguelikeCity_magenta_943
+  - first:
+      213: 21301888
+    second: roguelikeCity_magenta_944
+  - first:
+      213: 21301890
+    second: roguelikeCity_magenta_945
+  - first:
+      213: 21301892
+    second: roguelikeCity_magenta_946
+  - first:
+      213: 21301894
+    second: roguelikeCity_magenta_947
+  - first:
+      213: 21301896
+    second: roguelikeCity_magenta_948
+  - first:
+      213: 21301898
+    second: roguelikeCity_magenta_949
+  - first:
+      213: 21301900
+    second: roguelikeCity_magenta_950
+  - first:
+      213: 21301902
+    second: roguelikeCity_magenta_951
+  - first:
+      213: 21301904
+    second: roguelikeCity_magenta_952
+  - first:
+      213: 21301906
+    second: roguelikeCity_magenta_953
+  - first:
+      213: 21301908
+    second: roguelikeCity_magenta_954
+  - first:
+      213: 21301910
+    second: roguelikeCity_magenta_955
+  - first:
+      213: 21301912
+    second: roguelikeCity_magenta_956
+  - first:
+      213: 21301914
+    second: roguelikeCity_magenta_957
+  - first:
+      213: 21301916
+    second: roguelikeCity_magenta_958
+  - first:
+      213: 21301918
+    second: roguelikeCity_magenta_959
+  - first:
+      213: 21301920
+    second: roguelikeCity_magenta_960
+  - first:
+      213: 21301922
+    second: roguelikeCity_magenta_961
+  - first:
+      213: 21301924
+    second: roguelikeCity_magenta_962
+  - first:
+      213: 21301926
+    second: roguelikeCity_magenta_963
+  - first:
+      213: 21301928
+    second: roguelikeCity_magenta_964
+  - first:
+      213: 21301930
+    second: roguelikeCity_magenta_965
+  - first:
+      213: 21301932
+    second: roguelikeCity_magenta_966
+  - first:
+      213: 21301934
+    second: roguelikeCity_magenta_967
+  - first:
+      213: 21301936
+    second: roguelikeCity_magenta_968
+  - first:
+      213: 21301938
+    second: roguelikeCity_magenta_969
+  - first:
+      213: 21301940
+    second: roguelikeCity_magenta_970
+  - first:
+      213: 21301942
+    second: roguelikeCity_magenta_971
+  - first:
+      213: 21301944
+    second: roguelikeCity_magenta_972
+  - first:
+      213: 21301946
+    second: roguelikeCity_magenta_973
+  - first:
+      213: 21301948
+    second: roguelikeCity_magenta_974
+  - first:
+      213: 21301950
+    second: roguelikeCity_magenta_975
+  - first:
+      213: 21301952
+    second: roguelikeCity_magenta_976
+  - first:
+      213: 21301954
+    second: roguelikeCity_magenta_977
+  - first:
+      213: 21301956
+    second: roguelikeCity_magenta_978
+  - first:
+      213: 21301958
+    second: roguelikeCity_magenta_979
+  - first:
+      213: 21301960
+    second: roguelikeCity_magenta_980
+  - first:
+      213: 21301962
+    second: roguelikeCity_magenta_981
+  - first:
+      213: 21301964
+    second: roguelikeCity_magenta_982
+  - first:
+      213: 21301966
+    second: roguelikeCity_magenta_983
+  - first:
+      213: 21301968
+    second: roguelikeCity_magenta_984
+  - first:
+      213: 21301970
+    second: roguelikeCity_magenta_985
+  - first:
+      213: 21301972
+    second: roguelikeCity_magenta_986
+  - first:
+      213: 21301974
+    second: roguelikeCity_magenta_987
+  - first:
+      213: 21301976
+    second: roguelikeCity_magenta_988
+  - first:
+      213: 21301978
+    second: roguelikeCity_magenta_989
+  - first:
+      213: 21301980
+    second: roguelikeCity_magenta_990
+  - first:
+      213: 21301982
+    second: roguelikeCity_magenta_991
+  - first:
+      213: 21301984
+    second: roguelikeCity_magenta_992
+  - first:
+      213: 21301986
+    second: roguelikeCity_magenta_993
+  - first:
+      213: 21301988
+    second: roguelikeCity_magenta_994
+  - first:
+      213: 21301990
+    second: roguelikeCity_magenta_995
+  - first:
+      213: 21301992
+    second: roguelikeCity_magenta_996
+  - first:
+      213: 21301994
+    second: roguelikeCity_magenta_997
+  - first:
+      213: 21301996
+    second: roguelikeCity_magenta_998
+  - first:
+      213: 21301998
+    second: roguelikeCity_magenta_999
+  - first:
+      213: 21302000
+    second: roguelikeCity_magenta_1000
+  - first:
+      213: 21302002
+    second: roguelikeCity_magenta_1001
+  - first:
+      213: 21302004
+    second: roguelikeCity_magenta_1002
+  - first:
+      213: 21302006
+    second: roguelikeCity_magenta_1003
+  - first:
+      213: 21302008
+    second: roguelikeCity_magenta_1004
+  - first:
+      213: 21302010
+    second: roguelikeCity_magenta_1005
+  - first:
+      213: 21302012
+    second: roguelikeCity_magenta_1006
+  - first:
+      213: 21302014
+    second: roguelikeCity_magenta_1007
+  - first:
+      213: 21302016
+    second: roguelikeCity_magenta_1008
+  - first:
+      213: 21302018
+    second: roguelikeCity_magenta_1009
+  - first:
+      213: 21302020
+    second: roguelikeCity_magenta_1010
+  - first:
+      213: 21302022
+    second: roguelikeCity_magenta_1011
+  - first:
+      213: 21302024
+    second: roguelikeCity_magenta_1012
+  - first:
+      213: 21302026
+    second: roguelikeCity_magenta_1013
+  - first:
+      213: 21302028
+    second: roguelikeCity_magenta_1014
+  - first:
+      213: 21302030
+    second: roguelikeCity_magenta_1015
+  - first:
+      213: 21302032
+    second: roguelikeCity_magenta_1016
+  - first:
+      213: 21302034
+    second: roguelikeCity_magenta_1017
+  - first:
+      213: 21302036
+    second: roguelikeCity_magenta_1018
+  - first:
+      213: 21302038
+    second: roguelikeCity_magenta_1019
+  - first:
+      213: 21302040
+    second: roguelikeCity_magenta_1020
+  - first:
+      213: 21302042
+    second: roguelikeCity_magenta_1021
+  - first:
+      213: 21302044
+    second: roguelikeCity_magenta_1022
+  - first:
+      213: 21302046
+    second: roguelikeCity_magenta_1023
+  - first:
+      213: 21302048
+    second: roguelikeCity_magenta_1024
+  - first:
+      213: 21302050
+    second: roguelikeCity_magenta_1025
+  - first:
+      213: 21302052
+    second: roguelikeCity_magenta_1026
+  - first:
+      213: 21302054
+    second: roguelikeCity_magenta_1027
+  - first:
+      213: 21302056
+    second: roguelikeCity_magenta_1028
+  - first:
+      213: 21302058
+    second: roguelikeCity_magenta_1029
+  - first:
+      213: 21302060
+    second: roguelikeCity_magenta_1030
+  - first:
+      213: 21302062
+    second: roguelikeCity_magenta_1031
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_0
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3c66da9af763647b02c1113681078e
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca07a4f559f1c740b62d1a7334f81d8
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe0192157f08c245b184fe6fc10fcaa
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_4
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a5bf1080bf5864db6b395929c37bde
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8945eff5446bb4e88b32c948a1eb36
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_5
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7fc60e286fe3f4b96cffb3633f572b
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_6
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba69557f2a5771d42b35b1a146f6addf
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cf4e3aa77cca44396ced05f6349225
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_8
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5910ac59dd6bd444e8a194d75d4b69b0
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcff7d73282c50419499dc5a50e5c90
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1902ffa9f78240a4886e2661f6c2b445
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_11
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a38b2c6af9b3f4186d4ecc246cfd67
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5b0c2f1cc2b1549bc18e577dc393ad
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3068b78cca5745e48bcaf6e2f3aaf96f
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_14
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b4b5be87a394142ad6f9828cf3af65
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87f2bb0bc7af674cab3e7635ce9dc7b
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 442
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bee6e6050af2f45be28dd6a4e0f3df
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3de4f4e94d108b4d9f6ac67b62afb8b
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85359896f9ae0945badd8bec3590a7b
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 442
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80beadc807adf5b418d3cdb435ad7187
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_20
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf35c6bac64cce44843167f6a1fbb65
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 374
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3b9cadcb464cb46889da4fc72875b4
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 374
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b967ee1f74aed634581584010bba251f
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 374
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740067cc3cc41284090e8197e745840d
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e26996e73405d479847dcb900131b2
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b90b78a68f7ef45a440cac6731cd9c
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_26
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cae187ed7f3c14fa3e685ebe99e546
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_27
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69644fa36381a9d4b95acd2020471dc6
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_28
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa91092b81865a49bc97e9b9938fb1d
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa96087de58e557459aff262dd387ecd
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_30
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabd0861ac54e994cb3e290710d86837
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_31
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be9bc6d8e3864545bf5d28a76c9aaa0
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_32
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 442
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584524983b172464ea1976b1aee13177
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_33
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 442
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cad9897aa61aed438c921519cb75ec5
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_34
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a85383cf8ed2144095bd9575752a1dd
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_35
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ea2baf567a56f48a53af891f6c085c
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_36
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea79686381e5ba84e85a80ef997bd74d
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_37
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 374
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700e170d027290d44ab834d9f80f1398
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_38
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 374
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c0b60fdcc7a3040a63a3a0ac6f136f
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_39
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 374
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d86fafb1822834ab4048f99e6de2f7
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_40
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82516526d5d5bc245ada46acd0418306
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_41
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de19c5561046fa40a3cf05bc44e9b3a
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_42
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 442
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbaa4f9ca6016ad42b3e649c2fa5aba9
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_43
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 442
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72902f107c036b94d970e7d3257af4f1
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_44
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8af9cf769f77494c91b74e346abeb07
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_45
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 442
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dff6d6a5c4a08f40843e9cddbd8b69c
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_46
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 442
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bead240d855b247ad0cdcc182414b8
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_47
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbc449405eabd74d9d34ce2a5902355
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_48
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48369645e72edeb46ba9e3dfaff682e2
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_49
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42081d88c733e44f9c81e1c206636f4
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_50
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89923a4d3c882c14ca28ad72488ef306
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_51
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69694168c3b483b478c01a4ee12dab4f
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_52
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 442
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91cec08d0c71c041b0cdca830d685f8
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_53
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 442
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f98a51bc1ab7464c84ecf1bc33341e8
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_54
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 425
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eed5ebbba505424a923ea394a5e88f9
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_55
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 425
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9dc2afdf8ccc340815669543c4183a
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_56
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 425
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6635d038c5586b042aef2f9a727e374b
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5c55b001762924b8855c9082c454a9
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_58
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 391
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5a134e629b4c2429c1363373068b65
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_59
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 391
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f755b6950fbba54ba8b89318488a0d4
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_60
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 391
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcfadf110480074e8ec674f5b406957
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_61
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 374
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e713ce6b4dd95f4dba8e57a8f5f6686
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_62
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 374
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f9c5efb98c7d149bf44ba92d5895be
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_63
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 374
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce44da1969df2294ba50f10367e8d157
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_64
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 357
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5081a26776c774f8dff03a926e57d3
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_65
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 357
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6782b8af3113bd4d990d89eb4818b19
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_66
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 357
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a30cd0e6b85924fabd6a4b60110035
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_67
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3672a6ae1bfe36e4f829604b5130c16e
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_68
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 51
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4fca7985b30964eb43d75e22973df5
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_69
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 51
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a37efee0d40c214ea0d3196e9114559
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_70
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 34
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5e8af571ff50f42bf24dc4efd60c45
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_71
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 34
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb8575420eee0448aed55e60285d227
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_72
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 188
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b102991dc22f4740a0f388b4d413978
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_73
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 137
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d13bbefa3331774eacb6f8675e351ee
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_74
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 17
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b148664673ea4a24ebce5fd283ccf513
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_75
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102a8b824129a1945889ecff0c274621
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_76
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e499e48ca6c637d408415292ec84a40f
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_77
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df46dd64b027e17438e7840637b578fc
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_78
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a644e0ea17c7bec4b924e6122a04f8c2
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_79
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb49b6ebdc0ffc74290b3b82d31763d3
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_80
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b00f0ab9757e541933e8ca208f9b0c
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_81
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d34a439b55bb7f418c9acb7e57f7b7b
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_82
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f351ca4c0adbb479919c1b46b391e7
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_83
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d995a732f17a6c046ad0f39aac0003d6
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_84
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89106d7e1d04054c9ef4b4833f6e955
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_85
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbc78aaaedd12946919ff1577ce7552
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_86
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2974e0d2e53f23a468d98210acd0cf79
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_87
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 442
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4932a743050e95b4c98be1ae2839e4f4
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_88
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 442
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d229029d2d3710429de980563692d71
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_89
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3851bb5e0023a4cb04d8b067b11344
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_90
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 442
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21ff866a4a3dca4e9f6bdfd1392db10
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_91
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abf83407fda2c848a7a9f1f0f00670a
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_92
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 442
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13548b610dfa2224cb4d40574fc7e716
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_93
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31901374bbe9bc847bd49cb354f3971e
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_94
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc7c21ea6fb28744bf9606757382015
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_95
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd500548dadee248a3b6704ddca2787
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_96
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df8437ee7e5abe4b8ca23a162a3660c
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_97
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 374
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa9b1de1f1e40945b2a2a991c2260c9
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_98
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 374
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288d518043ed87f408db14e3201bdc82
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_99
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 374
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840834744d2fe194a9c01540b589c438
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_100
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d4ece6ed2d49d469eaba7f958dd495
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_101
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63243a537b30bc141b2ee4057efe1e8a
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_102
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80324feee61b2c428508b29b6afde3b
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_103
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02cb062be55e0743a0af192363675bc
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_104
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5970ab4d746d72f4388fb22eab09af9b
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_105
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 442
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a99444b7df312c4cb6bd1e6112190e4
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_106
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 442
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ec3cab01a5664458fe677cbb2b698c
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_107
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af9b5f2751e9c94fa5d74f827e2746e
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_108
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 442
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5b7fd2a8e49ef4c9aea7047735728a
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_109
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 442
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cde973a1f7f3424c851cc3708d15c10
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_110
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b317266ef954547b82b35508e200e4
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_111
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1249678711f7c93469ed003c6758f4e3
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_112
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 17
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df650b9662c174246aea49efcf1f00d5
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_113
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e181a25cd447442a88d231901aa647
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_114
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd60e19d41080848b3c8144bfa0ac96
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_115
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd137c14b4f56d4c8c2d1f13b40839d
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_116
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca5be8320aef8745adf8717e45bd9a1
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_117
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2419a98c2823c0c45ba5b761ceead9f1
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_118
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b740ecff9153c41bba23f673a63c88
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_119
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee6ee797f758dd46b3531e4b69e66a2
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_120
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd547d37a56a82459ba749484c430ba
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_121
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d95a48beb00ab42a76409b183b0426
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_122
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b39d2555a47bd488913d816a87e58d
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_123
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2aeb7bd607391a48b747c66849df4c2
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_124
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9ebb26e40bbfd44acad083027fe537
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_125
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1665f4d3ca92e474da6dc30ed757360d
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_126
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1549896e943ab74fbaceee37fb3826c
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_127
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 289
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465419a505ece944786947bfebe43fb5
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_128
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 272
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad39700591bbb741a320d0efeb2407b
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_129
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 272
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3073d2df2024cdd4ab2b5f736056c766
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_130
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 289
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab0e05b1317f4048bed52bd4387eed7
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_131
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 289
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4c27d93d07dd14ea52dd71bde95ddc
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_132
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 272
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb79e83f3e63729429d1a0962b03ea39
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_133
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 272
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ad8a14ed7f18d4288c1c631a1129c7
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_134
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 289
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20191557a133f13439d405e24e1ef180
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_135
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 255
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40aecdca912e7143b0e2fcf1192fd9c
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_136
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 255
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836c842b8a27da24b8df92ef18e64bf1
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_137
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 255
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630309b80187e1a4aaf632b5b10ac66c
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_138
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 255
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f08d172edd1f147b9ff914cb321488
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_139
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 154
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5860227f632baa47aaeaf3d99b33190
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_140
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14bbc2e61d393e47991a48767bb573a
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_141
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e384a77ec48a23e488cbc2ebcbdb2abf
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_142
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc4d015ea90e9d46ba7ff7a4545ce8a
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_143
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9ddacf15df2474d8a385df9d1524a4
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_144
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9e4ba4297a0b44c8875669bbdcfca9
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_145
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500f74f56031c8044affffc40da1f2ff
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 154
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c0821f0e9051d4cab5dab08054cbf4
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_147
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 154
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f41b6e32da68334bb4e51ae9fbd1ae8
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_148
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46902d8d36225d54cbf50762eb5e8503
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_149
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26d707544c487b48830efdaa8232eb0
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_150
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98747b8a6f5fdf5449c04423573e51b8
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_151
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99c6e5d83e3b3d49bb9587320a2bd05
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_152
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcae977ece3d0ea448b9ca9bd1a684a6
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_153
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d8031743ff4f94ca418823b814fce2
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_154
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197441aa8f72fda41bd3fdcd25d6a33c
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_155
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9a5ce192e229d41b2572fe800fd8e1
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_156
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d678a2ab0e0df1a469204570a5cbafa8
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_157
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe88eead7dbd0441a88cd8bbf5c5a11
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_158
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88292a7abf7cb494c972231029398b7b
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_159
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3138016eea33754297e8b28fe9149b1
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_160
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 187
+        width: 9
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c439cddcab58c0d459f4639c2b558761
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_161
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 187
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf350d84dd6549f41bad7cc9d9619a8b
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_162
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 187
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2ed9c0cf9fc4c44a0ae40a87e37528
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_163
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 170
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da64bc83ceeb7ba4582a935b091a2544
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_164
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 171
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c740333be14d54b8356de35fefe4f8
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_165
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 170
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5a66c89ac92994c857d55465261059
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_166
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 119
+        width: 9
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05733c26bf24ff43aeee648d6811c02
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_167
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 119
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1074cf67fb0ca248ba311c17126d607
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_168
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 119
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a63e6877a74ed0448287e7fd5c806dd
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_169
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 102
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467e30735ec17b440abd73476caf9dc7
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_170
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 103
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f218c44c44400aa4a876302929b8eabb
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_171
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 102
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c17e89ce29c4a469888791fecafa67
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_172
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 51
+        width: 9
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3766fdafff7c2b24a8f35564e6c74ea5
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_173
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 51
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b9664578f26094188978b6e0d08114
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_174
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 51
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d10202824be444393949194abcdf5c
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_175
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 34
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed0463a49c4cd047b47737bdfaa6deb
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_176
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 35
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662c542386d2ed048870756571c08330
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_177
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 34
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5365246e997366244a8d2fe914925c05
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_178
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 153
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb56857841eb0ee4482f713fc786e585
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_179
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 153
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c5571f610900d46a5e8b4073a62a54
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_180
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 137
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd710cf31b58b4478943699182024d8
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_181
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 137
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e0eb53827ec0a45a1b593c68d10aa0
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_182
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 153
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb4c34e64a494241afcecb722cfb2c4
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_183
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 153
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2f2a097cbaa7e468df69cce1a18523
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_184
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 137
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fca261a167dc94ea935910ac200d51
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeCity_magenta_185
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 137
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f4fc4a16c954943811ca873929277c
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b11d924a5478a824c966f957107318ee
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      roguelikeCity_magenta_132: 21300264
+      roguelikeCity_magenta_19: 21300038
+      roguelikeCity_magenta_127: 21300254
+      roguelikeCity_magenta_162: 21300324
+      roguelikeCity_magenta_30: 21300060
+      roguelikeCity_magenta_171: 21300342
+      roguelikeCity_magenta_86: 21300172
+      roguelikeCity_magenta_11: 21300022
+      roguelikeCity_magenta_152: 21300304
+      roguelikeCity_magenta_76: 21300152
+      roguelikeCity_magenta_23: 21300046
+      roguelikeCity_magenta_13: 21300026
+      roguelikeCity_magenta_81: 21300162
+      roguelikeCity_magenta_151: 21300302
+      roguelikeCity_magenta_155: 21300310
+      roguelikeCity_magenta_75: 21300150
+      roguelikeCity_magenta_107: 21300214
+      roguelikeCity_magenta_56: 21300112
+      roguelikeCity_magenta_104: 21300208
+      roguelikeCity_magenta_49: 21300098
+      roguelikeCity_magenta_124: 21300248
+      roguelikeCity_magenta_169: 21300338
+      roguelikeCity_magenta_7: 21300014
+      roguelikeCity_magenta_65: 21300130
+      roguelikeCity_magenta_120: 21300240
+      roguelikeCity_magenta_122: 21300244
+      roguelikeCity_magenta_160: 21300320
+      roguelikeCity_magenta_93: 21300186
+      roguelikeCity_magenta_2: 21300004
+      roguelikeCity_magenta_78: 21300156
+      roguelikeCity_magenta_110: 21300220
+      roguelikeCity_magenta_126: 21300252
+      roguelikeCity_magenta_99: 21300198
+      roguelikeCity_magenta_94: 21300188
+      roguelikeCity_magenta_15: 21300030
+      roguelikeCity_magenta_3: 21300006
+      roguelikeCity_magenta_100: 21300200
+      roguelikeCity_magenta_150: 21300300
+      roguelikeCity_magenta_149: 21300298
+      roguelikeCity_magenta_4: 21300008
+      roguelikeCity_magenta_97: 21300194
+      roguelikeCity_magenta_173: 21300346
+      roguelikeCity_magenta_166: 21300332
+      roguelikeCity_magenta_59: 21300118
+      roguelikeCity_magenta_68: 21300136
+      roguelikeCity_magenta_134: 21300268
+      roguelikeCity_magenta_181: 21300362
+      roguelikeCity_magenta_27: 21300054
+      roguelikeCity_magenta_161: 21300322
+      roguelikeCity_magenta_176: 21300352
+      roguelikeCity_magenta_185: 21300370
+      roguelikeCity_magenta_121: 21300242
+      roguelikeCity_magenta_21: 21300042
+      roguelikeCity_magenta_25: 21300050
+      roguelikeCity_magenta_48: 21300096
+      roguelikeCity_magenta_108: 21300216
+      roguelikeCity_magenta_47: 21300094
+      roguelikeCity_magenta_29: 21300058
+      roguelikeCity_magenta_31: 21300062
+      roguelikeCity_magenta_139: 21300278
+      roguelikeCity_magenta_119: 21300238
+      roguelikeCity_magenta_26: 21300052
+      roguelikeCity_magenta_35: 21300070
+      roguelikeCity_magenta_105: 21300210
+      roguelikeCity_magenta_128: 21300256
+      roguelikeCity_magenta_14: 21300028
+      roguelikeCity_magenta_123: 21300246
+      roguelikeCity_magenta_69: 21300138
+      roguelikeCity_magenta_17: 21300034
+      roguelikeCity_magenta_125: 21300250
+      roguelikeCity_magenta_111: 21300222
+      roguelikeCity_magenta_101: 21300202
+      roguelikeCity_magenta_63: 21300126
+      roguelikeCity_magenta_143: 21300286
+      roguelikeCity_magenta_84: 21300168
+      roguelikeCity_magenta_57: 21300114
+      roguelikeCity_magenta_67: 21300134
+      roguelikeCity_magenta_148: 21300296
+      roguelikeCity_magenta_167: 21300334
+      roguelikeCity_magenta_183: 21300366
+      roguelikeCity_magenta_175: 21300350
+      roguelikeCity_magenta_61: 21300122
+      roguelikeCity_magenta_116: 21300232
+      roguelikeCity_magenta_98: 21300196
+      roguelikeCity_magenta_147: 21300294
+      roguelikeCity_magenta_130: 21300260
+      roguelikeCity_magenta_80: 21300160
+      roguelikeCity_magenta_102: 21300204
+      roguelikeCity_magenta_170: 21300340
+      roguelikeCity_magenta_20: 21300040
+      roguelikeCity_magenta_53: 21300106
+      roguelikeCity_magenta_24: 21300048
+      roguelikeCity_magenta_79: 21300158
+      roguelikeCity_magenta_168: 21300336
+      roguelikeCity_magenta_154: 21300308
+      roguelikeCity_magenta_39: 21300078
+      roguelikeCity_magenta_145: 21300290
+      roguelikeCity_magenta_142: 21300284
+      roguelikeCity_magenta_140: 21300280
+      roguelikeCity_magenta_5: 21300010
+      roguelikeCity_magenta_95: 21300190
+      roguelikeCity_magenta_32: 21300064
+      roguelikeCity_magenta_184: 21300368
+      roguelikeCity_magenta_164: 21300328
+      roguelikeCity_magenta_138: 21300276
+      roguelikeCity_magenta_8: 21300016
+      roguelikeCity_magenta_179: 21300358
+      roguelikeCity_magenta_0: 21300000
+      roguelikeCity_magenta_115: 21300230
+      roguelikeCity_magenta_42: 21300084
+      roguelikeCity_magenta_129: 21300258
+      roguelikeCity_magenta_10: 21300020
+      roguelikeCity_magenta_96: 21300192
+      roguelikeCity_magenta_172: 21300344
+      roguelikeCity_magenta_58: 21300116
+      roguelikeCity_magenta_114: 21300228
+      roguelikeCity_magenta_72: 21300144
+      roguelikeCity_magenta_131: 21300262
+      roguelikeCity_magenta_90: 21300180
+      roguelikeCity_magenta_165: 21300330
+      roguelikeCity_magenta_37: 21300074
+      roguelikeCity_magenta_12: 21300024
+      roguelikeCity_magenta_54: 21300108
+      roguelikeCity_magenta_50: 21300100
+      roguelikeCity_magenta_38: 21300076
+      roguelikeCity_magenta_174: 21300348
+      roguelikeCity_magenta_103: 21300206
+      roguelikeCity_magenta_135: 21300270
+      roguelikeCity_magenta_82: 21300164
+      roguelikeCity_magenta_55: 21300110
+      roguelikeCity_magenta_91: 21300182
+      roguelikeCity_magenta_88: 21300176
+      roguelikeCity_magenta_77: 21300154
+      roguelikeCity_magenta_34: 21300068
+      roguelikeCity_magenta_109: 21300218
+      roguelikeCity_magenta_40: 21300080
+      roguelikeCity_magenta_1: 21300002
+      roguelikeCity_magenta_117: 21300234
+      roguelikeCity_magenta_16: 21300032
+      roguelikeCity_magenta_163: 21300326
+      roguelikeCity_magenta_113: 21300226
+      roguelikeCity_magenta_74: 21300148
+      roguelikeCity_magenta_146: 21300292
+      roguelikeCity_magenta_33: 21300066
+      roguelikeCity_magenta_85: 21300170
+      roguelikeCity_magenta_178: 21300356
+      roguelikeCity_magenta_18: 21300036
+      roguelikeCity_magenta_62: 21300124
+      roguelikeCity_magenta_83: 21300166
+      roguelikeCity_magenta_89: 21300178
+      roguelikeCity_magenta_92: 21300184
+      roguelikeCity_magenta_112: 21300224
+      roguelikeCity_magenta_60: 21300120
+      roguelikeCity_magenta_52: 21300104
+      roguelikeCity_magenta_87: 21300174
+      roguelikeCity_magenta_157: 21300314
+      roguelikeCity_magenta_153: 21300306
+      roguelikeCity_magenta_66: 21300132
+      roguelikeCity_magenta_36: 21300072
+      roguelikeCity_magenta_141: 21300282
+      roguelikeCity_magenta_159: 21300318
+      roguelikeCity_magenta_41: 21300082
+      roguelikeCity_magenta_144: 21300288
+      roguelikeCity_magenta_28: 21300056
+      roguelikeCity_magenta_70: 21300140
+      roguelikeCity_magenta_133: 21300266
+      roguelikeCity_magenta_156: 21300312
+      roguelikeCity_magenta_71: 21300142
+      roguelikeCity_magenta_158: 21300316
+      roguelikeCity_magenta_46: 21300092
+      roguelikeCity_magenta_51: 21300102
+      roguelikeCity_magenta_136: 21300272
+      roguelikeCity_magenta_180: 21300360
+      roguelikeCity_magenta_73: 21300146
+      roguelikeCity_magenta_6: 21300012
+      roguelikeCity_magenta_64: 21300128
+      roguelikeCity_magenta_106: 21300212
+      roguelikeCity_magenta_44: 21300088
+      roguelikeCity_magenta_43: 21300086
+      roguelikeCity_magenta_137: 21300274
+      roguelikeCity_magenta_45: 21300090
+      roguelikeCity_magenta_118: 21300236
+      roguelikeCity_magenta_182: 21300364
+      roguelikeCity_magenta_9: 21300018
+      roguelikeCity_magenta_22: 21300044
+      roguelikeCity_magenta_177: 21300354
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
