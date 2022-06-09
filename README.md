@@ -1,0 +1,2 @@
+# IdleGame
+Mobile Idle game. 
