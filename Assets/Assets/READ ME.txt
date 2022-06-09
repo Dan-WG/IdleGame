@@ -1,0 +1,1 @@
+Double click on "Import me", and click import. These files are needed for Admob to work.
