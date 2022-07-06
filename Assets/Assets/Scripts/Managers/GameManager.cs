@@ -6,6 +6,9 @@ namespace Idle
 {
     public sealed class GameManager : MonoBehaviour
     {
+        public DrillerManager drillerManager;
+        public MineralManager mineralManager;
+        public StorageManager storageManager;
         //The method is invoked by tapping the screen
         public void Click()
         {
@@ -21,6 +24,9 @@ namespace Idle
         {
             Managers.Instance.uIManager.ChangeScreen("GameScreen");
             StartCoroutine(MoneyPerSecond());
+            storageManager.gameObject.SetActive(true);
+            drillerManager.enabled = true;
+            mineralManager.enabled = true;
         }
         //Method to pause
         public void Pause()
