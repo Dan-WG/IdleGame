@@ -27,8 +27,7 @@ public class DrillerManager : MonoBehaviour
             mineralManager.Durability -= DrillPotency; 
             Debug.Log($"La durabilidad del mineral ha sido bajado en: -{DrillPotency}, total: {mineralManager.Durability}");
 
-            TimeWaiting = 0.0f;
-            Debug.Log("Reseteo");
+            mineralManager.UpdateMineralDurabilityUI();
 
             if(mineralManager.Durability <= 0)
             {
@@ -42,6 +41,9 @@ public class DrillerManager : MonoBehaviour
 
                 mineralManager.Reset();
             }
+
+            TimeWaiting = 0.0f;
+            Debug.Log("Reseteo");
         }
     }
 }
