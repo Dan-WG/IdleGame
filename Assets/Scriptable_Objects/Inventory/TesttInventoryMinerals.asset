@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 908c8c75371d51d46bf61bba48dcf3d2, type: 3}
+  m_Name: TesttInventoryMinerals
+  m_EditorClassIdentifier: 
+  savePath: /Inventory.Save
+  database: {fileID: 11400000, guid: 68dea6814a205a844af90a246985f849, type: 2}
+  Container:
+  - ID: 0
+    item: {fileID: 11400000, guid: 2a023b09d8f9ca84987e4a8410ee7b92, type: 2}
+    amount: 0
+  - ID: 1
+    item: {fileID: 11400000, guid: 79505dbdefdabad4fb5c3579b4bc563f, type: 2}
+    amount: 0
+  - ID: 2
+    item: {fileID: 11400000, guid: c26c922fe7a23974da2902e2505ff5a2, type: 2}
+    amount: 0
+  - ID: 3
+    item: {fileID: 11400000, guid: b82faec0b378c6c478edd2b0f16e3dbc, type: 2}
+    amount: 0
+  - ID: 4
+    item: {fileID: 11400000, guid: 666b36237dd59de4c8eedfcd4c09770b, type: 2}
+    amount: 0
+  - ID: 5
+    item: {fileID: 11400000, guid: 68de11c2ae044484f83cabce6f62b730, type: 2}
+    amount: 0
+  - ID: 6
+    item: {fileID: 11400000, guid: bdccab80402ce1d4d8f5acca187409c2, type: 2}
+    amount: 0
+  - ID: 7
+    item: {fileID: 11400000, guid: fdc25f3c17edebd4b938ad146f701643, type: 2}
+    amount: 0
