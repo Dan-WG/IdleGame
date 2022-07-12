@@ -168,8 +168,71 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: {fileID: 11400000, guid: 8e78b96e55b041948955e15d601e71df, type: 2}
-  idMineral: 0
   spawnPoint: {fileID: 162293080}
+  destroyNoMined: {fileID: 0}
+  idMineral: 0
+  mineralSprite: {fileID: 0}
+  mineral: 0
+  minSpawnChange: 2
+  maxSpawnChange: 4
+--- !u!1 &474003430
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 474003431}
+  - component: {fileID: 474003432}
+  m_Layer: 0
+  m_Name: Drill
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &474003431
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 474003430}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1495101049}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &474003432
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 474003430}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 2.3091843, y: 0.013663828}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.2459483, y: 1.0273277}
+  m_EdgeRadius: 0
 --- !u!1 &653308051
 GameObject:
   m_ObjectHideFlags: 0
@@ -215,8 +278,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: {fileID: 11400000, guid: 8e78b96e55b041948955e15d601e71df, type: 2}
-  idMineral: 0
   spawnPoint: {fileID: 653308052}
+  destroyNoMined: {fileID: 0}
+  idMineral: 0
+  mineralSprite: {fileID: 0}
+  mineral: 0
+  minSpawnChange: 2
+  maxSpawnChange: 4
 --- !u!1 &712718553
 GameObject:
   m_ObjectHideFlags: 0
@@ -262,8 +330,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: {fileID: 11400000, guid: 8e78b96e55b041948955e15d601e71df, type: 2}
-  idMineral: 0
   spawnPoint: {fileID: 712718554}
+  destroyNoMined: {fileID: 2094810209}
+  idMineral: 0
+  mineralSprite: {fileID: 0}
+  mineral: 0
+  minSpawnChange: 2
+  maxSpawnChange: 4
 --- !u!1 &751304857
 GameObject:
   m_ObjectHideFlags: 0
@@ -309,8 +382,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: {fileID: 11400000, guid: 8e78b96e55b041948955e15d601e71df, type: 2}
-  idMineral: 0
   spawnPoint: {fileID: 751304858}
+  destroyNoMined: {fileID: 0}
+  idMineral: 0
+  mineralSprite: {fileID: 0}
+  mineral: 0
+  minSpawnChange: 2
+  maxSpawnChange: 4
 --- !u!1 &905915731
 GameObject:
   m_ObjectHideFlags: 0
@@ -356,8 +434,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: {fileID: 11400000, guid: 8e78b96e55b041948955e15d601e71df, type: 2}
-  idMineral: 0
   spawnPoint: {fileID: 905915732}
+  destroyNoMined: {fileID: 0}
+  idMineral: 0
+  mineralSprite: {fileID: 0}
+  mineral: 0
+  minSpawnChange: 2
+  maxSpawnChange: 4
 --- !u!1 &1173708047
 GameObject:
   m_ObjectHideFlags: 0
@@ -403,8 +486,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: {fileID: 11400000, guid: 8e78b96e55b041948955e15d601e71df, type: 2}
-  idMineral: 0
   spawnPoint: {fileID: 1173708048}
+  destroyNoMined: {fileID: 0}
+  idMineral: 0
+  mineralSprite: {fileID: 0}
+  mineral: 0
+  minSpawnChange: 2
+  maxSpawnChange: 4
 --- !u!1 &1213723603
 GameObject:
   m_ObjectHideFlags: 0
@@ -415,6 +503,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1213723606}
   - component: {fileID: 1213723605}
+  - component: {fileID: 1213723607}
   - component: {fileID: 1213723604}
   m_Layer: 0
   m_Name: Main Camera
@@ -489,6 +578,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1213723607
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1213723603}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d2ef75ec246cf74690793e629e7dab2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  drill: {fileID: 1495101047}
 --- !u!1 &1246801948
 GameObject:
   m_ObjectHideFlags: 0
@@ -534,8 +636,126 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: {fileID: 11400000, guid: 8e78b96e55b041948955e15d601e71df, type: 2}
-  idMineral: 0
   spawnPoint: {fileID: 1246801949}
+  destroyNoMined: {fileID: 0}
+  idMineral: 0
+  mineralSprite: {fileID: 0}
+  mineral: 0
+  minSpawnChange: 2
+  maxSpawnChange: 4
+--- !u!1 &1495101047
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1495101049}
+  - component: {fileID: 1495101048}
+  - component: {fileID: 1495101050}
+  m_Layer: 0
+  m_Name: CompleteDrill
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &1495101048
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1495101047}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: af1f4406ab51ed94981baafb41aab5fd, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 5.12, y: 5.12}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &1495101049
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1495101047}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.1265676, y: -0.2891264, z: 0}
+  m_LocalScale: {x: 0.3, y: 0.3, z: 0.3}
+  m_ConstrainProportionsScale: 1
+  m_Children:
+  - {fileID: 474003431}
+  - {fileID: 2094810211}
+  m_Father: {fileID: 0}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1495101050
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1495101047}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.2322855, y: -0.10931063}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 5.12, y: 5.12}
+    newSize: {x: 5.12, y: 5.12}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 4.4368076, y: 1.895339}
+  m_EdgeRadius: 0
 --- !u!1 &1701096922
 GameObject:
   m_ObjectHideFlags: 0
@@ -545,6 +765,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1701096923}
+  - component: {fileID: 1701096925}
   - component: {fileID: 1701096924}
   m_Layer: 0
   m_Name: SpawnPoint1
@@ -581,8 +802,39 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: {fileID: 11400000, guid: 8e78b96e55b041948955e15d601e71df, type: 2}
-  idMineral: 3
   spawnPoint: {fileID: 1701096923}
+  destroyNoMined: {fileID: 0}
+  idMineral: 3
+  mineralSprite: {fileID: 0}
+  mineral: 0
+  minSpawnChange: 2
+  maxSpawnChange: 4
+--- !u!61 &1701096925
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1701096922}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.5, y: 0.5}
+  m_EdgeRadius: 0
 --- !u!1 &2090759831
 GameObject:
   m_ObjectHideFlags: 0
@@ -628,5 +880,68 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: {fileID: 11400000, guid: 8e78b96e55b041948955e15d601e71df, type: 2}
-  idMineral: 0
   spawnPoint: {fileID: 2090759832}
+  destroyNoMined: {fileID: 0}
+  idMineral: 0
+  mineralSprite: {fileID: 0}
+  mineral: 0
+  minSpawnChange: 2
+  maxSpawnChange: 4
+--- !u!1 &2094810209
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2094810211}
+  - component: {fileID: 2094810210}
+  m_Layer: 0
+  m_Name: DestroyNoMined
+  m_TagString: NoMined
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!61 &2094810210
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2094810209}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.53224707, y: -0.09819412}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.0532246, y: 10.591103}
+  m_EdgeRadius: 0
+--- !u!4 &2094810211
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2094810209}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -9.788558, y: 0.96375465, z: 0}
+  m_LocalScale: {x: 3.3333333, y: 3.3333333, z: 3.3333333}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1495101049}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
